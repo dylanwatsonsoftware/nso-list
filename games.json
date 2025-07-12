@@ -60,7 +60,7 @@
     "year": "N/A"
   },
   {
-    "name": "Dig Dug II",
+    "name": "Dig Dug Ⅱ",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -90,19 +90,19 @@
     "year": "N/A"
   },
   {
-    "name": "Double Dragon",
-    "system": "NES",
-    "image": "N/A",
-    "year": "N/A"
-  },
-  {
     "name": "Double Dragon II: The Revenge",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Downtown Nekketsu March: Super-Awesome Field Day!",
+    "name": "Double Dragon",
+    "system": "NES",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Downtown Nekketsu March Super-Awesome Field Day!",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -138,7 +138,7 @@
     "year": "N/A"
   },
   {
-    "name": "Ghosts 'n Goblins",
+    "name": "Ghosts’n Goblins",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -228,7 +228,7 @@
     "year": "N/A"
   },
   {
-    "name": "Mystery Tower (Tower of Babel)",
+    "name": "Mystery Tower",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -276,7 +276,7 @@
     "year": "N/A"
   },
   {
-    "name": "RC PRO-AM",
+    "name": "R.C. Pro-Am",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -408,7 +408,7 @@
     "year": "N/A"
   },
   {
-    "name": "The Mystery of Atlantis (Atlantis no Nazo)",
+    "name": "The Mystery of Atlantis",
     "system": "NES",
     "image": "N/A",
     "year": "N/A"
@@ -552,7 +552,7 @@
     "year": "N/A"
   },
   {
-    "name": "BRAWL BROTHERS",
+    "name": "Brawl Brothers",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -600,7 +600,7 @@
     "year": "N/A"
   },
   {
-    "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "name": "Donkey Kong Country 2: Diddy's Kong-Quest",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -636,13 +636,13 @@
     "year": "N/A"
   },
   {
-    "name": "Fighter's History",
+    "name": "F-ZERO",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "F-ZERO",
+    "name": "Fighter’s History",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -654,13 +654,13 @@
     "year": "N/A"
   },
   {
-    "name": "Jelly Boy",
+    "name": "JellyBoy",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Joe & Mac",
+    "name": "Joe & Mac (aka Caveman Ninja)",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -714,7 +714,7 @@
     "year": "N/A"
   },
   {
-    "name": "Magical Drop II",
+    "name": "Magical Drop2",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -732,13 +732,13 @@
     "year": "N/A"
   },
   {
-    "name": "Nobunaga's Ambition",
+    "name": "NOBUNAGA'S AMBITION",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Nobunaga's Ambition: Lord of Darkness",
+    "name": "NOBUNAGA'S AMBITION: Lord of Darkness",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -762,7 +762,7 @@
     "year": "N/A"
   },
   {
-    "name": "Pop'n Twinbee",
+    "name": "Pop'n TwinBee",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -780,7 +780,7 @@
     "year": "N/A"
   },
   {
-    "name": "Rival Turf",
+    "name": "Rival Turf!",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -810,13 +810,13 @@
     "year": "N/A"
   },
   {
-    "name": "Star Fox",
+    "name": "Star Fox 2",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Star Fox 2",
+    "name": "Star Fox",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -834,13 +834,13 @@
     "year": "N/A"
   },
   {
-    "name": "SUPER E.D.F. EARTH DEFENSE FORCE",
+    "name": "Super Earth Defense Force",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Super Ghouls 'n Ghosts",
+    "name": "Super Ghouls'n Ghosts",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -894,7 +894,13 @@
     "year": "N/A"
   },
   {
-    "name": "Super R-Type",
+    "name": "SUPER R-TYPE",
+    "system": "SNES",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Soccer",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
@@ -942,26 +948,398 @@
     "year": "N/A"
   },
   {
-    "name": "Uncharted Waters",
+    "name": "Uncharted Water: New Horizons",
     "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Kaeru no Tame ni Kane wa Naru (The Frog For Whom The Bell Tolls)",
-    "system": "Game Boy (Color)",
+    "name": "Wild Guns",
+    "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Yakuman",
-    "system": "Game Boy (Color)",
+    "name": "Wrecking Crew '98",
+    "system": "SNES",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "1080º Snowboarding",
-    "system": "N64",
+    "name": "Alone in the Dark - The New Nightmare",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Baseball",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Blaster Master: Enemy Below",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "BurgerTime Deluxe",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Castlevania Legends",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Donkey Kong",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Donkey Kong Land",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Donkey Kong Land 2",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Donkey Kong Land 3",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Dr. Mario",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Game & Watch Gallery 3",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Gargoyle's Quest",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Gradius the Interstellar Assault",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kirby Tilt 'n' Tumble",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kirby's Dream Land",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kirby’s Dream Land 2",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kirby's Star Stacker",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mario Golf",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mario's Picross",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mario Tennis",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mega Man: Dr. Wily's Revenge",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mega Man II",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mega Man III",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mega Man IV",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mega Man V",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Metroid II - Return of Samus",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Pokémon Trading Card Game",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Quest for Camelot",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Mario Land",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Mario Land 2: 6 Golden Coins",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Survival Kids",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Tetris",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Tetris DX",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Legend of Zelda: Link's Awakening DX",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Legend of Zelda: Oracle of Ages",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Legend of Zelda: Oracle of Seasons",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Sword of Hope",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Wario Land 3",
+    "system": "Game Boy",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Densetsu no Starfy 2",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Densetsu no Starfy 3",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Fire Emblem",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Fire Emblem: The Sacred Stones",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "F-Zero Climax",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "F-Zero: GP Legend",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "F-Zero Maximum Velocity",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Golden Sun: The Lost Age",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Golden Sun",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kirby & The Amazing Mirror",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Kuru Kuru Kururin",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mario & Luigi: Superstar Saga",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Mario Kart: Super Circuit",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Metroid Fusion",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Metroid: Zero Mission",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Mario Advance",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Mario Advance 4: Super Mario Bros. 3",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Mario World: Super Mario Advance 2",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Legend of Zelda: A Link to the Past and Four Swords",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "The Legend of Zelda: The Minish Cap",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Wario Land 4",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "WarioWare",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Inc.: Minigame Mania",
+    "system": "Game Boy Advance",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Yoshi's Island: Super Mario Advance 3",
+    "system": "Game Boy Advance",
     "image": "N/A",
     "year": "N/A"
   },
@@ -1044,6 +1422,12 @@
     "year": "N/A"
   },
   {
+    "name": "Lylat Wars",
+    "system": "N64",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
     "name": "Mario Golf",
     "system": "N64",
     "image": "N/A",
@@ -1075,6 +1459,12 @@
   },
   {
     "name": "Mario Tennis",
+    "system": "N64",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Operation: WinBack",
     "system": "N64",
     "image": "N/A",
     "year": "N/A"
@@ -1176,13 +1566,13 @@
     "year": "N/A"
   },
   {
-    "name": "Wave Race 64",
+    "name": "Turok 2: Seeds of Evil",
     "system": "N64",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "WinBack",
+    "name": "Wave Race 64",
     "system": "N64",
     "image": "N/A",
     "year": "N/A"
@@ -1194,20 +1584,20 @@
     "year": "N/A"
   },
   {
-    "name": "Custom Robo",
-    "system": "N64",
+    "name": "F-Zero GX",
+    "system": "GameCube",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Custom Robo V2",
-    "system": "N64",
+    "name": "Soulcalibur II",
+    "system": "GameCube",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Alien Soldier",
-    "system": "Sega Genesis / Mega Drive",
+    "name": "Super Mario Strikers",
+    "system": "GameCube",
     "image": "N/A",
     "year": "N/A"
   },
@@ -1230,7 +1620,7 @@
     "year": "N/A"
   },
   {
-    "name": "Beyond Oasis (The Story of Thor)",
+    "name": "Beyond Oasis",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1260,7 +1650,7 @@
     "year": "N/A"
   },
   {
-    "name": "Crusader of Centy",
+    "name": "Crusaders of Centy",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1392,13 +1782,13 @@
     "year": "N/A"
   },
   {
-    "name": "Sonic Spinball",
+    "name": "Sonic The Hedgehog 2",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Sonic the Hedgehog 2",
+    "name": "Sonic The Hedgehog Spinball",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1410,7 +1800,7 @@
     "year": "N/A"
   },
   {
-    "name": "Street Fighter II: Special Champion Edition",
+    "name": "Street Fighter II: Champion Edition",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1428,13 +1818,25 @@
     "year": "N/A"
   },
   {
-    "name": "Streets of Rage 3",
+    "name": "Strider",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
   },
   {
     "name": "Super Fantasy Zone",
+    "system": "Sega Genesis / Mega Drive",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Super Thunder Blade",
+    "system": "Sega Genesis / Mega Drive",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
+    "name": "Sword of Vermilion",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1470,13 +1872,19 @@
     "year": "N/A"
   },
   {
+    "name": "Virtua Fighter 2",
+    "system": "Sega Genesis / Mega Drive",
+    "image": "N/A",
+    "year": "N/A"
+  },
+  {
     "name": "Vectorman",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
   },
   {
-    "name": "Virtua Fighter 2",
+    "name": "Wolf of the Battlefield: Mercs",
     "system": "Sega Genesis / Mega Drive",
     "image": "N/A",
     "year": "N/A"
@@ -1484,30 +1892,6 @@
   {
     "name": "Zero Wing",
     "system": "Sega Genesis / Mega Drive",
-    "image": "N/A",
-    "year": "N/A"
-  },
-  {
-    "name": "Metroid Fusion",
-    "system": "GBA",
-    "image": "N/A",
-    "year": "N/A"
-  },
-  {
-    "name": "Fire Emblem",
-    "system": "GBA",
-    "image": "N/A",
-    "year": "N/A"
-  },
-  {
-    "name": "Metroid Zero Mission",
-    "system": "GBA",
-    "image": "N/A",
-    "year": "N/A"
-  },
-  {
-    "name": "Super Mario Land 2: 6 Golden Coins",
-    "system": "GB/GBC",
     "image": "N/A",
     "year": "N/A"
   }
