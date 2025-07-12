@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>NSO Games 🎮</h1>
+        <div class="search-controls">
+            <input type="text" id="search" class="search-input" placeholder="Search movies..." />
+            <div class="filter-bar">
+                <button id="filter-kids">Kids Only</button>
+                <button id="filter-favourites">Favourites Only</button>
+                <button id="filter-tvshows">Show TV Shows</button>
+                <select id="category-filter" class="category-dropdown">
+                    <option value="">All Categories</option>
+                </select>
+            </div>
+        </div>
+        <div id="loading">Loading movies...</div>
+        <div id="error" class="error hidden">Error loading movies</div>
+        <ul id="movie-list" class="movie-list hidden"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
