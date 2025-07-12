@@ -6,15 +6,15 @@
 
 body {
     font-family: 'Segoe UI', 'Arial Rounded MT Bold', 'Verdana', 'Geneva', sans-serif;
-    background: linear-gradient(135deg, #18181b 0%, #23232b 100%);
-    color: #f8f8f8;
+    background: linear-gradient(135deg, #23232b 0%, #2d2d36 100%);
+    color: #f3f3f3;
     min-height: 100vh;
 }
 
 .container {
-    background: rgba(24, 24, 27, 0.98);
+    background: rgba(35, 35, 43, 0.97);
     border-radius: 18px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.22);
     padding: 32px 20px 32px 20px;
     margin: 40px auto 0 auto;
     max-width: 1200px;
@@ -24,10 +24,10 @@ h1 {
     text-align: center;
     margin-bottom: 30px;
     color: #fff;
-    font-size: 2.7rem;
+    font-size: 2.5rem;
     font-weight: 800;
     letter-spacing: 2px;
-    text-shadow: 0 2px 8px #e60012cc, 0 1px 0 #fff2;
+    text-shadow: 0 2px 8px #d43a3a33, 0 1px 0 #fff2;
 }
 
 .movie-list {
@@ -39,19 +39,19 @@ h1 {
 }
 
 .movie-item {
-    background: #23232b;
+    background: #292933;
     border-radius: 16px;
     overflow: hidden;
     transition: transform 0.18s cubic-bezier(.4,2,.6,1), box-shadow 0.18s;
     cursor: pointer;
-    border: 2px solid #2a2a2a;
-    box-shadow: 0 2px 8px #000a;
+    border: 1.5px solid #353545;
+    box-shadow: 0 2px 8px #0007;
     position: relative;
 }
 .movie-item:hover {
-    transform: scale(1.045);
-    box-shadow: 0 8px 24px #e6001233, 0 2px 8px #000a;
-    border-color: #e60012;
+    transform: scale(1.035);
+    box-shadow: 0 8px 24px #d43a3a22, 0 2px 8px #000a;
+    border-color: #d43a3a;
 }
 
 .movie-image {
@@ -59,39 +59,39 @@ h1 {
     height: 200px;
     object-fit: cover;
     display: block;
-    background: #18181b;
-    border-bottom: 2px solid #e60012;
+    background: #23232b;
+    border-bottom: 1.5px solid #d43a3a;
 }
 .movie-image.placeholder {
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1rem;
-    color: #e60012;
-    background: #18181b;
+    color: #d43a3a;
+    background: #23232b;
     font-weight: 700;
     letter-spacing: 1px;
 }
 
 .movie-title {
-    font-size: 1.15rem;
+    font-size: 1.12rem;
     font-weight: 700;
     margin: 12px 14px 4px;
     color: #fff;
     letter-spacing: 0.5px;
-    text-shadow: 0 1px 0 #e60012cc;
+    text-shadow: 0 1px 0 #d43a3a22;
 }
 
 .movie-info {
     font-size: 0.93rem;
-    color: #f8f8f8;
+    color: #e3e3e3;
     margin: 0 14px 12px;
     display: flex;
     flex-direction: column;
     gap: 2px;
 }
 .movie-year {
-    color: #e60012;
+    color: #d43a3a;
     font-weight: 700;
 }
 .movie-genre {
@@ -120,13 +120,13 @@ h1 {
 .error {
     text-align: center;
     color: #fff;
-    background: #e60012;
+    background: #d43a3a;
     font-size: 1.1rem;
     padding: 15px;
     border-radius: 10px;
-    border: 2px solid #fff2;
+    border: 1.5px solid #fff2;
     margin-top: 20px;
-    box-shadow: 0 2px 8px #e6001244;
+    box-shadow: 0 2px 8px #d43a3a33;
 }
 
 .hidden {
@@ -139,16 +139,16 @@ h1 {
     margin: 0 auto 30px;
     padding: 12px 18px;
     font-size: 1.08rem;
-    border: 2px solid #e60012;
+    border: 1.5px solid #d43a3a;
     border-radius: 999px;
-    background: #18181b;
+    background: #23232b;
     color: #fff;
     outline: none;
-    box-shadow: 0 2px 8px #e6001211 inset;
+    box-shadow: 0 2px 8px #d43a3a11 inset;
     transition: box-shadow 0.2s, border-color 0.2s;
 }
 .search-input:focus {
-    box-shadow: 0 0 0 2px #e60012, 0 2px 8px #e6001211 inset;
+    box-shadow: 0 0 0 2px #d43a3a, 0 2px 8px #d43a3a11 inset;
     border-color: #fff;
 }
 
@@ -163,8 +163,8 @@ h1 {
 .category-dropdown, #platform-filter {
     padding: 10px 16px;
     border-radius: 999px;
-    border: 2px solid #e60012;
-    background: #18181b;
+    border: 1.5px solid #d43a3a;
+    background: #23232b;
     color: #fff;
     font-size: 1rem;
     margin-left: 10px;
@@ -172,7 +172,7 @@ h1 {
     min-width: 160px;
     max-width: 100%;
     box-sizing: border-box;
-    box-shadow: 0 2px 8px #e6001211;
+    box-shadow: 0 2px 8px #d43a3a11;
     transition: border-color 0.2s, box-shadow 0.2s;
     white-space: nowrap;
     overflow: hidden;
@@ -197,7 +197,7 @@ h1 {
     transition: color 0.2s;
 }
 .favourite-icon:hover {
-    color: #e60012;
+    color: #d43a3a;
 }
 
 .filter-bar {
@@ -210,7 +210,7 @@ h1 {
 }
 
 .filter-bar button {
-    background: #e60012;
+    background: #d43a3a;
     color: #fff;
     border: none;
     border-radius: 999px;
@@ -218,14 +218,14 @@ h1 {
     font-size: 1rem;
     font-weight: 700;
     cursor: pointer;
-    box-shadow: 0 2px 8px #e6001211;
+    box-shadow: 0 2px 8px #d43a3a11;
     transition: background 0.2s, color 0.2s, box-shadow 0.2s;
     letter-spacing: 0.5px;
 }
 .filter-bar button:hover, .filter-bar button.active {
     background: #fff;
-    color: #e60012;
-    box-shadow: 0 2px 8px #e6001244;
+    color: #d43a3a;
+    box-shadow: 0 2px 8px #d43a3a33;
 }
 
 @media (max-width: 768px) {
