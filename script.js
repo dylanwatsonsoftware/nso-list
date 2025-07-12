@@ -161,7 +161,7 @@ class GameDisplay {
 
         const name = game.name || 'Unknown Title';
         const system = game.system || '';
-        const year = game.year || '';
+        const year = game.year || game.released || '';
         const image = game.image && game.image !== "N/A" ? game.image : '';
 
         const isFavourite = this.favourites.has(name);
@@ -170,11 +170,17 @@ class GameDisplay {
             ${this.createImageElement(image, name)}
             <div class="movie-header">
                 <div class="movie-title">${this.escapeHtml(name)}</div>
-                <div class="favourite-icon" title="Toggle favourite" data-title="${this.escapeHtml(name)}">${isFavourite ? '❤️' : '🤍'}</div>
+                <div class="favourite-icon" title="Toggle favourite" data-title="${this.escapeHtml(name)}">${
+          isFavourite ? "❤️" : "🤍"
+        }</div>
             </div>
             <div class="movie-info">
-                ${system ? `<div class="movie-genre">System: ${this.escapeHtml(system)}</div>` : ''}
-                ${year && year !== "N/A" ? `<div class="movie-year">Year: ${this.escapeHtml(year)}</div>` : ''}
+                ${
+                  system != null && system != "N/A"
+                    ? `<div class="movie-genre">${this.escapeHtml(system)}</div>`
+                    : ""
+                }
+                ${year != null && year != "N/A" ? `<div class="movie-year">${this.escapeHtml(year)}</div>` : ""}
             </div>
         `;
 
