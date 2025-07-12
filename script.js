@@ -163,6 +163,12 @@ class GameDisplay {
         const system = game.system || '';
         const year = game.year || game.released || '';
         const image = game.image && game.image !== "N/A" ? game.image : '';
+        const publishers = game.publishers ? game.publishers.join(', ') : '';
+        const platforms = game.additional_platforms ? game.additional_platforms.join(', ') : '';
+        const esrb = game.esrb_rating || '';
+        const metacritic = game.metacritic != null ? game.metacritic : '';
+        const released = game.released || '';
+        const screenshots = Array.isArray(game.screenshots) ? game.screenshots : [];
 
         const isFavourite = this.favourites.has(name);
 
@@ -170,17 +176,11 @@ class GameDisplay {
             ${this.createImageElement(image, name)}
             <div class="movie-header">
                 <div class="movie-title">${this.escapeHtml(name)}</div>
-                <div class="favourite-icon" title="Toggle favourite" data-title="${this.escapeHtml(name)}">${
-          isFavourite ? "❤️" : "🤍"
-        }</div>
+                <div class="favourite-icon" title="Toggle favourite" data-title="${this.escapeHtml(name)}">${isFavourite ? "❤️" : "🤍"}</div>
             </div>
             <div class="movie-info">
-                ${
-                  system != null && system != "N/A"
-                    ? `<div class="movie-genre">${this.escapeHtml(system)}</div>`
-                    : ""
-                }
-                ${year != null && year != "N/A" ? `<div class="movie-year">${this.escapeHtml(year)}</div>` : ""}
+                ${system && system !== "N/A" ? `<div class="movie-genre">${this.escapeHtml(system)}</div>` : ""}
+                ${year && year !== "N/A" ? `<div class="movie-year">Year: ${this.escapeHtml(year)}</div>` : ""}
             </div>
         `;
 
@@ -191,7 +191,120 @@ class GameDisplay {
             this.toggleFavourite(name, heart);
         });
 
+        // Show details modal on click
+        li.addEventListener('click', (e) => {
+            if (!e.target.classList.contains('favourite-icon')) {
+                this.showGameModal({
+                    name, system, year, image, publishers, platforms, esrb, metacritic, released, screenshots
+                });
+            }
+        });
+
         return li;
+    }
+
+    showGameModal(game) {
+        // Remove any existing modal
+        let modal = document.getElementById('game-modal');
+        if (modal) modal.remove();
+
+        modal = document.createElement('div');
+        modal.id = 'game-modal';
+        modal.style.position = 'fixed';
+        modal.style.top = '0';
+        modal.style.left = '0';
+        modal.style.width = '100vw';
+        modal.style.height = '100vh';
+        modal.style.background = 'rgba(0,0,0,0.85)';
+        modal.style.zIndex = '9999';
+        modal.style.display = 'flex';
+        modal.style.alignItems = 'center';
+        modal.style.justifyContent = 'center';
+        modal.style.overflowY = 'auto';
+
+        const content = document.createElement('div');
+        content.style.background = '#23232b';
+        content.style.borderRadius = '18px';
+        content.style.padding = '32px 24px 24px 24px';
+        content.style.maxWidth = '700px';
+        content.style.width = '95vw';
+        content.style.maxHeight = '90vh';
+        content.style.overflowY = 'auto';
+        content.style.boxShadow = '0 8px 32px #000a';
+        content.style.position = 'relative';
+
+        // Close button
+        const closeBtn = document.createElement('button');
+        closeBtn.textContent = '×';
+        closeBtn.style.position = 'absolute';
+        closeBtn.style.top = '16px';
+        closeBtn.style.right = '24px';
+        closeBtn.style.fontSize = '2rem';
+        closeBtn.style.background = 'none';
+        closeBtn.style.border = 'none';
+        closeBtn.style.color = '#fff';
+        closeBtn.style.cursor = 'pointer';
+        closeBtn.style.zIndex = '2';
+        closeBtn.addEventListener('click', () => modal.remove());
+        content.appendChild(closeBtn);
+
+        // Main image
+        if (game.image) {
+            const img = document.createElement('img');
+            img.src = game.image;
+            img.alt = game.name;
+            img.style.width = '100%';
+            img.style.maxHeight = '260px';
+            img.style.objectFit = 'cover';
+            img.style.borderRadius = '12px';
+            img.style.marginBottom = '18px';
+            content.appendChild(img);
+        }
+
+        // Details
+        const details = document.createElement('div');
+        details.innerHTML = `
+            <h2 style="margin-bottom: 10px; color: #fff;">${this.escapeHtml(game.name)}</h2>
+            <div style="color: #ccc; margin-bottom: 10px;">${game.system ? `<b>System:</b> ${this.escapeHtml(game.system)}` : ''}</div>
+            ${game.year ? `<div style="color: #ccc;"><b>Year:</b> ${this.escapeHtml(game.year)}</div>` : ''}
+            ${game.released ? `<div style="color: #ccc;"><b>Released:</b> ${this.escapeHtml(game.released)}</div>` : ''}
+            ${game.publishers ? `<div style="color: #ccc;"><b>Publisher(s):</b> ${this.escapeHtml(game.publishers)}</div>` : ''}
+            ${game.platforms ? `<div style="color: #ccc;"><b>Platforms:</b> ${this.escapeHtml(game.platforms)}</div>` : ''}
+            ${game.esrb ? `<div style="color: #ccc;"><b>ESRB:</b> ${this.escapeHtml(game.esrb)}</div>` : ''}
+            ${game.metacritic !== '' && game.metacritic !== null && game.metacritic !== undefined ? `<div style="color: #ccc;"><b>Metacritic:</b> ${this.escapeHtml(game.metacritic.toString())}</div>` : ''}
+        `;
+        content.appendChild(details);
+
+        // Screenshots
+        if (game.screenshots && game.screenshots.length > 0) {
+            const shotsDiv = document.createElement('div');
+            shotsDiv.style.display = 'flex';
+            shotsDiv.style.flexWrap = 'wrap';
+            shotsDiv.style.gap = '10px';
+            shotsDiv.style.marginTop = '18px';
+            shotsDiv.style.justifyContent = 'center';
+            shotsDiv.innerHTML = '<b style="width:100%;color:#fff;">Screenshots</b>';
+            game.screenshots.forEach(url => {
+                const shot = document.createElement('img');
+                shot.src = url;
+                shot.alt = 'Screenshot';
+                shot.style.width = '140px';
+                shot.style.height = '90px';
+                shot.style.objectFit = 'cover';
+                shot.style.borderRadius = '8px';
+                shot.style.background = '#18181b';
+                shotsDiv.appendChild(shot);
+            });
+            content.appendChild(shotsDiv);
+        }
+
+        modal.appendChild(content);
+        document.body.appendChild(modal);
+
+        // Close modal on background click
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.remove();
+        });
     }
 
     // --- Listen for popstate to support back/forward navigation ---
