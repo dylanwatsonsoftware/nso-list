@@ -5,10 +5,12 @@ class GameDisplay {
         this.error = document.getElementById('error');
         this.searchInput = document.getElementById('search');
         this.favouritesButton = document.getElementById('filter-favourites');
+        this.platformDropdown = document.getElementById('platform-filter');
 
         this.allGames = [];
         this.favourites = new Set(JSON.parse(localStorage.getItem('favouriteGames') || '[]'));
         this.favouritesFilterEnabled = false;
+        this.platformFilter = '';
 
         this.init();
     }
@@ -19,6 +21,7 @@ class GameDisplay {
             this.h1Title = document.querySelector('h1');
             this.setupSearch();
             this.setupFavouritesButton();
+            this.setupPlatformDropdown();
             this.setupPopState();
             this.setFiltersFromQuery();
             this.updateFilteredDisplay();
@@ -37,13 +40,22 @@ class GameDisplay {
         const response = await fetch('games.json');
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         this.allGames = await response.json();
+        this.populatePlatformDropdown();
         this.displayGames(this.allGames);
+    }
+
+    populatePlatformDropdown() {
+        if (!this.platformDropdown) return;
+        const platforms = Array.from(new Set(this.allGames.map(g => g.system).filter(Boolean))).sort();
+        this.platformDropdown.innerHTML = '<option value="">All Platforms</option>' +
+            platforms.map(p => `<option value="${this.escapeHtml(p)}">${this.escapeHtml(p)}</option>`).join('');
     }
 
     getCurrentFilters() {
         return {
             search: this.searchInput?.value || '',
-            favourites: this.favouritesFilterEnabled ? '1' : ''
+            favourites: this.favouritesFilterEnabled ? '1' : '',
+            platform: this.platformDropdown?.value || ''
         };
     }
 
@@ -51,6 +63,8 @@ class GameDisplay {
         const params = new URLSearchParams(window.location.search);
         this.searchInput.value = params.get('search') || '';
         this.favouritesFilterEnabled = params.get('favourites') === '1';
+        this.platformFilter = params.get('platform') || '';
+        if (this.platformDropdown) this.platformDropdown.value = this.platformFilter;
         this.favouritesButton.textContent = 'Favourites Only';
         if (this.favouritesFilterEnabled) {
             this.favouritesButton.classList.add("active");
@@ -93,8 +107,18 @@ class GameDisplay {
         });
     }
 
+    setupPlatformDropdown() {
+        if (!this.platformDropdown) return;
+        this.platformDropdown.addEventListener('change', () => {
+            this.platformFilter = this.platformDropdown.value;
+            this.updateFilteredDisplay();
+            this.updateHistory();
+        });
+    }
+
     updateFilteredDisplay() {
         const query = this.searchInput?.value.trim().toLowerCase() || '';
+        const platform = this.platformDropdown?.value || '';
         let filtered = this.allGames.filter(game => {
             const name = game.name || '';
             const system = game.system || '';
@@ -104,8 +128,9 @@ class GameDisplay {
             const allValues = [name, system, year].join(' ').toLowerCase();
             const matchesSearch = allValues.includes(query);
             const matchesFavourites = !this.favouritesFilterEnabled || isFavourite;
+            const matchesPlatform = !platform || system === platform;
 
-            return matchesSearch && matchesFavourites;
+            return matchesSearch && matchesFavourites && matchesPlatform;
         });
 
         this.displayGames(filtered);
