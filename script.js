@@ -144,6 +144,16 @@ class GameDisplay {
             return;
         }
 
+        // Sort by metacritic score descending, null/undefined at the end
+        games = [...games].sort((a, b) => {
+            const ma = a.metacritic;
+            const mb = b.metacritic;
+            if (ma == null && mb == null) return 0;
+            if (ma == null) return 1;
+            if (mb == null) return -1;
+            return mb - ma;
+        });
+
         this.error.classList.add('hidden');
         this.gameList.innerHTML = '';
 
@@ -178,9 +188,12 @@ class GameDisplay {
                 <div class="movie-title">${this.escapeHtml(name)}</div>
                 <div class="favourite-icon" title="Toggle favourite" data-title="${this.escapeHtml(name)}">${isFavourite ? "❤️" : "🤍"}</div>
             </div>
-            <div class="movie-info">
-                ${system && system !== "N/A" ? `<div class="movie-genre">${this.escapeHtml(system)}</div>` : ""}
-                ${year && year !== "N/A" ? `<div class="movie-year">Year: ${this.escapeHtml(year)}</div>` : ""}
+            <div class="movie-info" style="display: flex; flex-direction: column; gap: 2px;">
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    ${system && system !== "N/A" ? `<div class="movie-genre">${this.escapeHtml(system)}</div>` : ""}
+                    ${metacritic !== '' && metacritic !== null && metacritic !== undefined ? `<div style="margin-left:15px;"><span style="color:#fff;background:#6c3;border-radius:6px;padding:2px 8px;font-weight:700;">${this.escapeHtml(metacritic.toString())}</span> <span style="color:#aaa;font-size:0.9em;"></span></div>` : ''}
+                </div>
+                ${year && year !== "N/A" ? `<div class="movie-year">${this.escapeHtml(year)}</div>` : ""}
             </div>
         `;
 
