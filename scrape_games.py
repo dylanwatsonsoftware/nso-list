@@ -28,6 +28,8 @@ def scrape_games():
                     if name:
                         games.append({"name": name, "platform": current_platform})
 
+    print(f"Found {len(games)} games.")
+    
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(games, f, indent=2, ensure_ascii=False)
 
