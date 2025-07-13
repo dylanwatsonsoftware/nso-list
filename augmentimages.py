@@ -2,9 +2,11 @@ import json
 import requests
 import time
 import os
+from dotenv import load_dotenv
 
 # --- Configuration (REPLACE WITH YOUR OWN CREDENTIALS) ---
-RAWG_API_KEY = '42cf5e79555449aea20f9997daaaf9eb'  # Replace with your RAWG API key
+load_dotenv()
+RAWG_API_KEY = os.getenv('RAWG_API_KEY')  # Loaded from .env file
 # ---------------------------------------------------------
 
 RAWG_API_URL = 'https://api.rawg.io/api/games'
