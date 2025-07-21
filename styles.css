@@ -228,6 +228,29 @@ h1 {
     box-shadow: 0 2px 8px #d43a3a33;
 }
 
+.github-btn {
+  position: absolute;
+  top: 32px;
+  right: 32px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  background: #24292e;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(36,41,46,0.08);
+  transition: background 0.2s, box-shadow 0.2s;
+  margin-top: 0;
+}
+.github-btn:hover {
+  background: #0366d6;
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(3,102,214,0.15);
+}
+
 @media (max-width: 768px) {
     .movie-list {
         grid-template-columns: repeat(2, 1fr);
@@ -261,5 +284,11 @@ h1 {
         margin-left: 0;
         margin-right: 0;
         width: fit-content;
+    }
+    .github-btn {
+      top: 12px;
+      right: 12px;
+      padding: 8px 14px;
+      font-size: 0.95rem;
     }
 }

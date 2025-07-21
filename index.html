@@ -1,47 +1,51 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🎮 NSO Games</title>
-    <link rel="stylesheet" href="styles.css">
-    <script
-  src="https://js.sentry-cdn.com/ad35a8d152bbcd38588ba6554dca03f5.min.js"
-  crossorigin="anonymous"
-></script>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://js.sentry-cdn.com/ad35a8d152bbcd38588ba6554dca03f5.min.js" crossorigin="anonymous"></script>
     <script>
-  Sentry.onLoad(function() {
-    Sentry.init({
-      integrations: [
-        Sentry.replayIntegration(),
-      ],
-      // Session Replay
-      replaysSessionSampleRate: 1.0, // This sets the sample rate at 10%. You may want to change it to 100% while in development and then sample at a lower rate in production.
-      replaysOnErrorSampleRate: 1.0, // If you're not already sampling the entire session, change the sample rate to 100% when sampling sessions where errors occur.
-    });
-  });
+      Sentry.onLoad(function () {
+        Sentry.init({
+          integrations: [Sentry.replayIntegration()],
+          // Session Replay
+          replaysSessionSampleRate: 1.0, // This sets the sample rate at 10%. You may want to change it to 100% while in development and then sample at a lower rate in production.
+          replaysOnErrorSampleRate: 1.0, // If you're not already sampling the entire session, change the sample rate to 100% when sampling sessions where errors occur.
+        });
+      });
     </script>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <h1>🎮 NSO Games</h1>
-        <div class="search-controls">
-            <input type="text" id="search" class="search-input" placeholder="Search games..." />
-            <div class="filter-bar">
-                <button id="filter-favourites">Favourites Only</button>
-                <select id="platform-filter" class="category-dropdown">
-                    <option value="">All Platforms</option>
-                </select>
-            </div>
+      <h1>🎮 NSO Games</h1>
+      <div class="search-controls">
+        <input type="text" id="search" class="search-input" placeholder="Search games..." />
+        <div class="filter-bar">
+          <button id="filter-favourites">Favourites Only</button>
+          <select id="platform-filter" class="category-dropdown">
+            <option value="">All Platforms</option>
+          </select>
         </div>
-        <div id="loading">Loading games...</div>
-        <div id="error" class="error hidden">Error loading games</div>
-        <ul id="movie-list" class="movie-list hidden"></ul>
+      </div>
+      <div id="loading">Loading games...</div>
+      <div id="error" class="error hidden">Error loading games</div>
+      <ul id="movie-list" class="movie-list hidden"></ul>
     </div>
+    <a href="https://github.com/dylanwatsonsoftware/nso-list/tree/main" target="_blank" class="github-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:middle;margin-right:8px;"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.84 1.236 1.84 1.236 1.07 1.834 2.809 1.304 3.495.997.108-.775.418-1.305.762-1.605-2.665-.305-5.466-1.332-5.466-5.93 0-1.31.469-2.381 1.236-3.221-.124-.303-.535-1.523.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.873.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.61-2.804 5.624-5.475 5.921.43.371.823 1.102.823 2.222 0 1.606-.014 2.898-.014 3.293 0 .322.218.694.825.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/></svg>
+      Github Repository
+    </a>
     <script src="script.js"></script>
 
     <!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=21145826&style=0001&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>
-</body>
+    <a href="https://www.hitwebcounter.com" target="_blank">
+      <img
+        src="https://hitwebcounter.com/counter/counter.php?page=21145826&style=0001&nbdigits=5&type=page&initCount=0"
+        title="Counter Widget"
+        alt="Visit counter For Websites"
+        border="0"
+    /></a>
+  </body>
 </html>
