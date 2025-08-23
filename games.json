@@ -16,7 +16,10 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1989-04-20"
+    "released": "1989-04-20",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Balloon Fight",
@@ -39,7 +42,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1985-01-22"
+    "released": "1985-01-22",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Baseball",
@@ -53,7 +59,12 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1983-12-07"
+    "released": "1983-12-07",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Two-player"
+    ]
   },
   {
     "name": "Blaster Master",
@@ -72,7 +83,17 @@
       "Wii U",
       "Wii"
     ],
-    "released": "2009-12-14"
+    "released": "2009-12-14",
+    "tags": [
+      "combat",
+      "console",
+      "destroy",
+      "escape",
+      "Endless",
+      "NES",
+      "maze",
+      "pet"
+    ]
   },
   {
     "name": "City Connection",
@@ -92,7 +113,10 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone",
-    "released": "1985-01-01"
+    "released": "1985-01-01",
+    "tags": [
+      "2 players"
+    ]
   },
   {
     "name": "Clu Clu Land",
@@ -114,7 +138,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1984-11-22"
+    "released": "1984-11-22",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Cobra Triangle",
@@ -132,7 +160,10 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1989-07-01"
+    "released": "1989-07-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Crystalis",
@@ -152,7 +183,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1990-07-01"
+    "released": "1990-07-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Daiva Story 6: Imperial of Nirsartia",
@@ -169,7 +203,10 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1986-12-05"
+    "released": "1986-12-05",
+    "tags": [
+      "fan-translation"
+    ]
   },
   {
     "name": "Devil World",
@@ -190,7 +227,11 @@
       "Wii",
       "NES"
     ],
-    "released": "1984-10-05"
+    "released": "1984-10-05",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Dig Dug Ⅱ",
@@ -223,7 +264,11 @@
       "Atari 2600",
       "Atari 8-bit"
     ],
-    "released": "1982-04-19"
+    "released": "1982-04-19",
+    "tags": [
+      "Singleplayer",
+      "2 players"
+    ]
   },
   {
     "name": "Donkey Kong",
@@ -253,7 +298,11 @@
       "Atari 8-bit",
       "Atari XEGS"
     ],
-    "released": "1981-07-09"
+    "released": "1981-07-09",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Donkey Kong 3",
@@ -275,7 +324,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1984-07-04"
+    "released": "1984-07-04",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Donkey Kong Jr.",
@@ -301,7 +354,11 @@
       "Atari 2600",
       "Atari 8-bit"
     ],
-    "released": "1982-01-01"
+    "released": "1982-01-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Donkey Kong Jr. Math",
@@ -321,7 +378,13 @@
       "Wii",
       "NES"
     ],
-    "released": "1983-12-12"
+    "released": "1983-12-12",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Education",
+      "edutainment"
+    ]
   },
   {
     "name": "Double Dragon II: The Revenge",
@@ -351,7 +414,25 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1988-12-01"
+    "released": "1988-12-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative",
+      "Mystery",
+      "Story",
+      "online",
+      "battle",
+      "Dragons",
+      "fight",
+      "Underwater",
+      "secrets",
+      "work",
+      "death",
+      "challenge",
+      "love",
+      "japan"
+    ]
   },
   {
     "name": "Double Dragon",
@@ -383,7 +464,14 @@
       "SEGA Master System",
       "Game Gear"
     ],
-    "released": "1987-08-01"
+    "released": "1987-08-01",
+    "tags": [
+      "cooperative",
+      "online",
+      "japan",
+      "2 players",
+      "simultaneous"
+    ]
   },
   {
     "name": "Downtown Nekketsu March Super-Awesome Field Day!",
@@ -403,7 +491,42 @@
       "PlayStation 3"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "2015-02-11"
+    "released": "2015-02-11",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "steam-trading-cards",
+      "Co-op",
+      "Смешная",
+      "Online Co-Op",
+      "Funny",
+      "Классика",
+      "Classic",
+      "Split Screen",
+      "Пиксельная графика",
+      "Online multiplayer",
+      "Local Co-Op",
+      "Ретро",
+      "Pixel Graphics",
+      "Local Multiplayer",
+      "Retro",
+      "Аниме",
+      "Anime",
+      "Милая",
+      "Cute",
+      "Спортивная игра",
+      "Файтинг",
+      "Локальная игра на четверых",
+      "4 Player Local",
+      "2D Fighter",
+      "Двумерный файтинг"
+    ]
   },
   {
     "name": "Dr. Mario",
@@ -426,7 +549,12 @@
       "SNES",
       "NES"
     ],
-    "released": "1990-07-27"
+    "released": "1990-07-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "puzzles"
+    ]
   },
   {
     "name": "EarthBound Beginnings",
@@ -445,7 +573,24 @@
       "NES"
     ],
     "esrb_rating": "Teen",
-    "released": "1989-07-27"
+    "released": "1989-07-27",
+    "tags": [
+      "Zombies",
+      "Robots",
+      "battle",
+      "console",
+      "Epic",
+      "fight",
+      "Parody",
+      "fire",
+      "art",
+      "humor",
+      "japan",
+      "NES",
+      "smash",
+      "business",
+      "baseball"
+    ]
   },
   {
     "name": "Eliminator Boat Duel",
@@ -463,7 +608,11 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1993-04-29"
+    "released": "1993-04-29",
+    "tags": [
+      "Singleplayer",
+      "Two-player"
+    ]
   },
   {
     "name": "Excitebike",
@@ -486,7 +635,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1984-11-30"
+    "released": "1984-11-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Fire 'n Ice",
@@ -496,7 +649,12 @@
     "additional_platforms": [
       "Web"
     ],
-    "released": "2022-09-22"
+    "released": "2022-09-22",
+    "tags": [
+      "fire",
+      "ice",
+      "graphics"
+    ]
   },
   {
     "name": "Ghosts’n Goblins",
@@ -515,7 +673,14 @@
       "Nintendo 3DS",
       "Wii"
     ],
-    "released": "2007-12-10"
+    "released": "2007-12-10",
+    "tags": [
+      "Demons",
+      "console",
+      "Monsters",
+      "NES",
+      "Ghosts"
+    ]
   },
   {
     "name": "Golf",
@@ -538,7 +703,11 @@
       "NES",
       "Atari 2600"
     ],
-    "released": "1980-12-31"
+    "released": "1980-12-31",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Gradius",
@@ -562,7 +731,19 @@
       "NES",
       "Commodore / Amiga"
     ],
-    "released": "1985-01-01"
+    "released": "1985-01-01",
+    "tags": [
+      "Space",
+      "War",
+      "console",
+      "fight",
+      "race",
+      "destroy",
+      "planet",
+      "fighter",
+      "NES",
+      "lasers"
+    ]
   },
   {
     "name": "Ice Climber",
@@ -585,7 +766,12 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1985-01-30"
+    "released": "1985-01-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Ice Hockey",
@@ -606,7 +792,11 @@
       "NES",
       "Atari 2600"
     ],
-    "released": "1981-01-01"
+    "released": "1981-01-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Journey to Silius",
@@ -625,7 +815,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1990-08-10"
+    "released": "1990-08-10",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Joy Mech Fight",
@@ -642,7 +835,19 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1993-05-21"
+    "released": "1993-05-21",
+    "tags": [
+      "Multiplayer",
+      "combat",
+      "Robots",
+      "character",
+      "fight",
+      "boss",
+      "japan",
+      "fighter",
+      "versus",
+      "bugs"
+    ]
   },
   {
     "name": "Kid Icarus",
@@ -661,7 +866,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1986-12-19"
+    "released": "1986-12-19",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Kirby's Adventure",
@@ -685,7 +893,10 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1993-03-23"
+    "released": "1993-03-23",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Kung-Fu Heroes",
@@ -704,7 +915,13 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "2017-01-26"
+    "released": "2017-01-26",
+    "tags": [
+      "console",
+      "Monsters",
+      "Traps",
+      "NES"
+    ]
   },
   {
     "name": "Mach Rider",
@@ -723,7 +940,10 @@
       "Wii",
       "NES"
     ],
-    "released": "1985-10-18"
+    "released": "1985-10-18",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Mappy-Land",
@@ -742,7 +962,17 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1987-04-05"
+    "released": "1987-04-05",
+    "tags": [
+      "Singleplayer",
+      "console",
+      "party",
+      "cats",
+      "police",
+      "Traps",
+      "avoid",
+      "NES"
+    ]
   },
   {
     "name": "Mario Bros.",
@@ -764,7 +994,13 @@
       "Wii"
     ],
     "esrb_rating": "Everyone",
-    "released": "2006-11-19"
+    "released": "2006-11-19",
+    "tags": [
+      "console",
+      "NES",
+      "mario",
+      "coins"
+    ]
   },
   {
     "name": "Metroid",
@@ -785,7 +1021,15 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 58,
-    "released": "1986-08-06"
+    "released": "1986-08-06",
+    "tags": [
+      "Space",
+      "Music",
+      "console",
+      "galaxy",
+      "NES",
+      "creepy"
+    ]
   },
   {
     "name": "Mighty Bomb Jack",
@@ -809,7 +1053,12 @@
       "Commodore / Amiga",
       "Atari ST"
     ],
-    "released": "1986-04-24"
+    "released": "1986-04-24",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "2 players"
+    ]
   },
   {
     "name": "Mystery Tower",
@@ -826,7 +1075,12 @@
       "PC",
       "Linux"
     ],
-    "released": "2020-12-14"
+    "released": "2020-12-14",
+    "tags": [
+      "Singleplayer",
+      "Third Person",
+      "3D"
+    ]
   },
   {
     "name": "NES Open Tournament Golf",
@@ -848,7 +1102,10 @@
       "Wii",
       "NES"
     ],
-    "released": "1987-06-14"
+    "released": "1987-06-14",
+    "tags": [
+      "Multiplayer"
+    ]
   },
   {
     "name": "Nightshade",
@@ -868,7 +1125,13 @@
       "NES",
       "Commodore / Amiga"
     ],
-    "released": "1991-12-31"
+    "released": "1991-12-31",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Приключение",
+      "Partial Controller Support"
+    ]
   },
   {
     "name": "Ninja Gaiden",
@@ -887,7 +1150,17 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1988-12-09"
+    "released": "1988-12-09",
+    "tags": [
+      "Singleplayer",
+      "console",
+      "Ninja",
+      "fight",
+      "death",
+      "sword",
+      "NES",
+      "run"
+    ]
   },
   {
     "name": "Ninja JaJaMaru-kun",
@@ -904,7 +1177,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "2007-10-15"
+    "released": "2007-10-15",
+    "tags": [
+      "Import"
+    ]
   },
   {
     "name": "Pinball",
@@ -922,7 +1198,13 @@
       "iOS"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "2010-10-15"
+    "released": "2010-10-15",
+    "tags": [
+      "Physics",
+      "ball",
+      "Pinball",
+      "balls"
+    ]
   },
   {
     "name": "Pro Wrestling",
@@ -939,7 +1221,13 @@
     "additional_platforms": [
       "SEGA Master System"
     ],
-    "released": "1986-10-13"
+    "released": "1986-10-13",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Punch-Out!! Featuring Mr. Dream",
@@ -960,7 +1248,12 @@
       "Wii",
       "NES"
     ],
-    "released": "2007-04-16"
+    "released": "2007-04-16",
+    "tags": [
+      "battle",
+      "humor",
+      "dodge"
+    ]
   },
   {
     "name": "R.C. Pro-Am",
@@ -979,7 +1272,10 @@
       "NES",
       "Genesis"
     ],
-    "released": "1988-04-15"
+    "released": "1988-04-15",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "River City Ransom",
@@ -998,7 +1294,12 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1989-04-25"
+    "released": "1989-04-25",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Rygar",
@@ -1016,7 +1317,11 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1987-04-14"
+    "released": "1987-04-14",
+    "tags": [
+      "2 players",
+      "separate turns"
+    ]
   },
   {
     "name": "S.C.A.T.: Special Cybernetic Attack Team",
@@ -1035,7 +1340,11 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1990-06-22"
+    "released": "1990-06-22",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Shadow of the Ninja",
@@ -1054,7 +1363,12 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1990-08-10"
+    "released": "1990-08-10",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Snake Rattle 'n' Roll",
@@ -1074,7 +1388,11 @@
       "NES",
       "Genesis"
     ],
-    "released": "1991-03-27"
+    "released": "1991-03-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Soccer",
@@ -1094,7 +1412,15 @@
       "Wii",
       "NES"
     ],
-    "released": "1985-04-09"
+    "released": "1985-04-09",
+    "tags": [
+      "console",
+      "skill",
+      "Football",
+      "match",
+      "japan",
+      "NES"
+    ]
   },
   {
     "name": "Solar Jetman",
@@ -1112,7 +1438,10 @@
     "additional_platforms": [
       "NES"
     ],
-    "released": "1991-09-26"
+    "released": "1991-09-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Solomon's Key",
@@ -1158,7 +1487,16 @@
       "GameCube"
     ],
     "esrb_rating": "Everyone",
-    "released": "2003-07-10"
+    "released": "2003-07-10",
+    "tags": [
+      "Space",
+      "console",
+      "ship",
+      "fire",
+      "speed",
+      "fighter",
+      "NES"
+    ]
   },
   {
     "name": "StarTropics",
@@ -1178,7 +1516,10 @@
       "Wii",
       "NES"
     ],
-    "released": "1990-12-01"
+    "released": "1990-12-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Super Dodge Ball",
@@ -1197,7 +1538,11 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1988-07-26"
+    "released": "1988-07-26",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario Bros.",
@@ -1222,7 +1567,11 @@
       "SNES",
       "NES"
     ],
-    "released": "1985-09-13"
+    "released": "1985-09-13",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario Bros. 2",
@@ -1245,7 +1594,19 @@
       "SNES",
       "NES"
     ],
-    "released": "1988-10-09"
+    "released": "1988-10-09",
+    "tags": [
+      "puzzles",
+      "friends",
+      "night",
+      "collect",
+      "speed",
+      "Dreams",
+      "princess",
+      "mario",
+      "coins",
+      "jumping"
+    ]
   },
   {
     "name": "Super Mario Bros. 3",
@@ -1270,7 +1631,11 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1988-10-23"
+    "released": "1988-10-23",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario Bros.: The Lost Levels",
@@ -1293,7 +1658,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1986-06-03"
+    "released": "1986-06-03",
+    "tags": [
+      "Singleplayer",
+      "Import"
+    ]
   },
   {
     "name": "Tecmo Bowl",
@@ -1315,7 +1684,13 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1990-11-13"
+    "released": "1990-11-13",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "2 players",
+      "Arcade: 1-4 players"
+    ]
   },
   {
     "name": "Tennis",
@@ -1338,7 +1713,15 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1984-01-14"
+    "released": "1984-01-14",
+    "tags": [
+      "Controller",
+      "achievements",
+      "character",
+      "friends",
+      "challenge",
+      "tennis"
+    ]
   },
   {
     "name": "Tetris",
@@ -1361,7 +1744,11 @@
       "Atari ST",
       "Genesis"
     ],
-    "released": "1984-06-06"
+    "released": "1984-06-06",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "The Immortal",
@@ -1386,7 +1773,59 @@
       "Atari ST",
       "Genesis"
     ],
-    "released": "1990-01-01"
+    "released": "1990-01-01",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "RPG",
+      "Ролевая игра",
+      "Стратегия",
+      "Казуальная игра",
+      "2D",
+      "Фэнтези",
+      "Fantasy",
+      "Мясо",
+      "Gore",
+      "Платформер",
+      "Free to Play",
+      "Бесплатная игра",
+      "Пиксельная графика",
+      "Pixel Graphics",
+      "Action RPG",
+      "Ролевой экшен",
+      "Point & Click",
+      "Милая",
+      "Cute",
+      "Тёмное фэнтези",
+      "Dark Fantasy",
+      "Cinematic",
+      "Изометрия",
+      "Isometric",
+      "Кинематографичная",
+      "Пошаговые сражения",
+      "PvE",
+      "Игра против ИИ",
+      "Turn-Based Combat",
+      "Demons",
+      "Демоны",
+      "2D Platformer",
+      "2D-платформер",
+      "Набор очков",
+      "Score Attack",
+      "Strategy RPG",
+      "Ролевая стратегия",
+      "Action Roguelike",
+      "Экшен-рогалик",
+      "Runner",
+      "Раннер",
+      "Лошади",
+      "Horses",
+      "Mystery Dungeon",
+      "Загадочное подземелье"
+    ]
   },
   {
     "name": "The Legend of Zelda",
@@ -1410,7 +1849,16 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1986-02-21"
+    "released": "1986-02-21",
+    "tags": [
+      "Dark",
+      "Epic",
+      "explore",
+      "secrets",
+      "sword",
+      "princess",
+      "zelda"
+    ]
   },
   {
     "name": "The Mysterious Murasame Castle",
@@ -1431,7 +1879,10 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1986-04-14"
+    "released": "1986-04-14",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "The Mystery of Atlantis",
@@ -1451,7 +1902,12 @@
       "macOS"
     ],
     "esrb_rating": "Teen",
-    "released": "1999-11-15"
+    "released": "1999-11-15",
+    "tags": [
+      "Singleplayer",
+      "Приключение",
+      "Point & Click"
+    ]
   },
   {
     "name": "TwinBee",
@@ -1470,7 +1926,11 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1985-03-05"
+    "released": "1985-03-05",
+    "tags": [
+      "cooperative",
+      "2 players"
+    ]
   },
   {
     "name": "Urban Champion",
@@ -1489,7 +1949,12 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1984-11-14"
+    "released": "1984-11-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Two Players"
+    ]
   },
   {
     "name": "Vice: Project Doom",
@@ -1508,7 +1973,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1991-11-26"
+    "released": "1991-11-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Volleyball",
@@ -1526,7 +1994,11 @@
       "Wii",
       "NES"
     ],
-    "released": "1986-07-21"
+    "released": "1986-07-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "VS. Excitebike",
@@ -1544,7 +2016,14 @@
     "additional_platforms": [
       "Wii U"
     ],
-    "released": "2015-08-31"
+    "released": "2015-08-31",
+    "tags": [
+      "Multiplayer",
+      "console",
+      "Soundtrack",
+      "love",
+      "NES"
+    ]
   },
   {
     "name": "Wario's Woods",
@@ -1566,7 +2045,11 @@
       "SNES",
       "NES"
     ],
-    "released": "1994-02-19"
+    "released": "1994-02-19",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Wrecking Crew",
@@ -1588,7 +2071,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1985-06-18"
+    "released": "1985-06-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Xevious",
@@ -1610,7 +2097,15 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "2007-01-15"
+    "released": "2007-01-15",
+    "tags": [
+      "Music",
+      "console",
+      "destroy",
+      "ship",
+      "fire",
+      "NES"
+    ]
   },
   {
     "name": "Yoshi",
@@ -1633,7 +2128,12 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1991-12-14"
+    "released": "1991-12-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "puzzles"
+    ]
   },
   {
     "name": "Zelda II: The Adventure of Link",
@@ -1657,7 +2157,10 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1987-01-14"
+    "released": "1987-01-14",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Atlantis no Nazo",
@@ -1685,7 +2188,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1984-11-22"
+    "released": "1984-11-22",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Famicom Wars",
@@ -1704,7 +2211,10 @@
       "NES"
     ],
     "esrb_rating": "Teen",
-    "released": "1988-08-12"
+    "released": "1988-08-12",
+    "tags": [
+      "Turn-Based Strategy"
+    ]
   },
   {
     "name": "Fire Emblem: Shadow Dragon and the Blade of Light",
@@ -1724,7 +2234,19 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1990-04-20"
+    "released": "1990-04-20",
+    "tags": [
+      "Magic",
+      "battle",
+      "hero",
+      "fire",
+      "escape",
+      "love",
+      "sword",
+      "treasure",
+      "princess",
+      "knight"
+    ]
   },
   {
     "name": "Route 16 Turbo",
@@ -1761,7 +2283,12 @@
       "Xbox 360"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "2009-12-07"
+    "released": "2009-12-07",
+    "tags": [
+      "Multiplayer",
+      "achievements",
+      "run"
+    ]
   },
   {
     "name": "Amazing Hebereke",
@@ -1779,7 +2306,32 @@
     "additional_platforms": [
       "PC"
     ],
-    "released": "2016-09-30"
+    "released": "2016-09-30",
+    "tags": [
+      "Singleplayer",
+      "Инди",
+      "RPG",
+      "Ролевая игра",
+      "Стратегия",
+      "Partial Controller Support",
+      "Horror",
+      "Симулятор",
+      "Насилие",
+      "Violent",
+      "Free to Play",
+      "Бесплатная игра",
+      "Аниме",
+      "Anime",
+      "Нагота",
+      "Nudity",
+      "Для взрослых",
+      "Mature",
+      "Сексуальный контент",
+      "Sexual Content",
+      "Визуальная новелла",
+      "RPGMaker",
+      "RPG Maker"
+    ]
   },
   {
     "name": "Battletoads Double Dragon",
@@ -1800,7 +2352,12 @@
       "NES",
       "Genesis"
     ],
-    "released": "1993-12-01"
+    "released": "1993-12-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Battletoads in Battlemaniacs",
@@ -1819,7 +2376,12 @@
       "SNES",
       "SEGA Master System"
     ],
-    "released": "1994-01-07"
+    "released": "1994-01-07",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Big Run",
@@ -1839,7 +2401,15 @@
       "macOS",
       "Linux"
     ],
-    "released": "2016-12-19"
+    "released": "2016-12-19",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Инди",
+      "steam-trading-cards",
+      "Казуальная игра",
+      "Платформер"
+    ]
   },
   {
     "name": "Bombuzal",
@@ -1860,7 +2430,10 @@
       "Commodore / Amiga",
       "Atari ST"
     ],
-    "released": "1988-01-01"
+    "released": "1988-01-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Brawl Brothers",
@@ -1880,7 +2453,11 @@
       "Wii",
       "SNES"
     ],
-    "released": "1992-12-22"
+    "released": "1992-12-22",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Breath of Fire",
@@ -1903,7 +2480,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 79,
-    "released": "2001-12-31"
+    "released": "2001-12-31",
+    "tags": [
+      "Singleplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "Breath of Fire II",
@@ -1927,7 +2508,11 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 81,
-    "released": "1994-12-02"
+    "released": "1994-12-02",
+    "tags": [
+      "Singleplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "Claymates",
@@ -1945,7 +2530,10 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-04-26"
+    "released": "1993-04-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Congo's Caper",
@@ -1963,7 +2551,10 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1992-12-18"
+    "released": "1992-12-18",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Cosmo Gang The Puzzle",
@@ -1980,7 +2571,15 @@
     "additional_platforms": [
       "PC"
     ],
-    "released": "2017-04-12"
+    "released": "2017-04-12",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Инди",
+      "Full controller support",
+      "steam-trading-cards",
+      "Partial Controller Support"
+    ]
   },
   {
     "name": "Demon's Crest",
@@ -2001,7 +2600,15 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1994-10-21"
+    "released": "1994-10-21",
+    "tags": [
+      "Singleplayer",
+      "Demons",
+      "console",
+      "fight",
+      "fire",
+      "NES"
+    ]
   },
   {
     "name": "Donkey Kong Country",
@@ -2024,7 +2631,12 @@
       "Game Boy Color",
       "SNES"
     ],
-    "released": "1994-11-21"
+    "released": "1994-11-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Donkey Kong Country 2: Diddy's Kong-Quest",
@@ -2046,7 +2658,12 @@
       "Game Boy Advance",
       "SNES"
     ],
-    "released": "1995-11-20"
+    "released": "1995-11-20",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
@@ -2067,7 +2684,15 @@
       "Game Boy Advance",
       "SNES"
     ],
-    "released": "1996-11-23"
+    "released": "1996-11-23",
+    "tags": [
+      "console",
+      "friends",
+      "Solo",
+      "NES",
+      "coins",
+      "birds"
+    ]
   },
   {
     "name": "Doomsday Warrior",
@@ -2085,7 +2710,11 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1992-11-20"
+    "released": "1992-11-20",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "EarthBound",
@@ -2104,7 +2733,10 @@
       "SNES"
     ],
     "esrb_rating": "Teen",
-    "released": "1994-08-27"
+    "released": "1994-08-27",
+    "tags": [
+      "role-playing"
+    ]
   },
   {
     "name": "Earthworm Jim 2",
@@ -2131,7 +2763,16 @@
       "SEGA Saturn"
     ],
     "metacritic": 45,
-    "released": "1995-09-18"
+    "released": "1995-09-18",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Приключение",
+      "2D",
+      "Классика",
+      "Classic",
+      "Платформер"
+    ]
   },
   {
     "name": "Fatal Fury 2",
@@ -2156,7 +2797,12 @@
       "Genesis",
       "Neo Geo"
     ],
-    "released": "1992-12-10"
+    "released": "1992-12-10",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "2 players"
+    ]
   },
   {
     "name": "F-ZERO",
@@ -2175,7 +2821,15 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1990-11-21"
+    "released": "1990-11-21",
+    "tags": [
+      "console",
+      "race",
+      "cars",
+      "speed",
+      "NES",
+      "racer"
+    ]
   },
   {
     "name": "Fighter’s History",
@@ -2193,7 +2847,13 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-01-01"
+    "released": "1993-01-01",
+    "tags": [
+      "character",
+      "history",
+      "fighter",
+      "japan"
+    ]
   },
   {
     "name": "Harvest Moon",
@@ -2215,7 +2875,11 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1996-08-09"
+    "released": "1996-08-09",
+    "tags": [
+      "Singleplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "JellyBoy",
@@ -2230,7 +2894,12 @@
     "additional_platforms": [
       "Web"
     ],
-    "released": "2021-08-14"
+    "released": "2021-08-14",
+    "tags": [
+      "Singleplayer",
+      "2D",
+      "Pixel Graphics"
+    ]
   },
   {
     "name": "Joe & Mac (aka Caveman Ninja)",
@@ -2246,7 +2915,65 @@
     "additional_platforms": [
       "PC"
     ],
-    "released": "2022-12-01"
+    "released": "2022-12-01",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "Для нескольких игроков",
+      "Co-op",
+      "cooperative",
+      "2D",
+      "Partial Controller Support",
+      "Юмор",
+      "Comedy",
+      "Платформер",
+      "Split Screen",
+      "Локальный мультиплеер",
+      "Local Co-Op",
+      "Ретро",
+      "Контроллер",
+      "Controller",
+      "Local Multiplayer",
+      "Аркада",
+      "Retro",
+      "Цветастая",
+      "Вид сбоку",
+      "Colorful",
+      "Side Scroller",
+      "combat",
+      "90-е",
+      "Олдскул",
+      "1990's",
+      "Бой",
+      "Remote Play Together",
+      "2D Platformer",
+      "2D-платформер",
+      "Shared/Split Screen Co-op",
+      "Dinosaurs",
+      "Динозавры",
+      "fun",
+      "Old School",
+      "Локальный кооператив",
+      "boss",
+      "food",
+      "rock",
+      "plants",
+      "jungle",
+      "Training",
+      "attack",
+      "village",
+      "rush",
+      "catch",
+      "graphics",
+      "speedrun",
+      "design",
+      "roll"
+    ]
   },
   {
     "name": "Joe & Mac 2: Lost in the Tropics",
@@ -2264,7 +2991,11 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1994-02-18"
+    "released": "1994-02-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Killer Instinct",
@@ -2283,7 +3014,10 @@
       "Game Boy",
       "SNES"
     ],
-    "released": "1994-06-28"
+    "released": "1994-06-28",
+    "tags": [
+      "2 players"
+    ]
   },
   {
     "name": "Kirby Super Star",
@@ -2302,7 +3036,13 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1996-03-21"
+    "released": "1996-03-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative",
+      "2 players"
+    ]
   },
   {
     "name": "Kirby's Avalanche",
@@ -2321,7 +3061,11 @@
       "Wii",
       "SNES"
     ],
-    "released": "1995-02-01"
+    "released": "1995-02-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Kirby's Dream Course",
@@ -2337,7 +3081,11 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1994-09-21"
+    "released": "1994-09-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Kirby's Dream Land 3",
@@ -2359,7 +3107,12 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1997-11-27"
+    "released": "1997-11-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Kirby's Star Stacker",
@@ -2377,7 +3130,11 @@
     "additional_platforms": [
       "Nintendo 3DS"
     ],
-    "released": "2013-01-17"
+    "released": "2013-01-17",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Kunio-kun no Dodgeball da yo Zen'in Shūgō!",
@@ -2396,7 +3153,11 @@
       "NES",
       "Atari 8-bit"
     ],
-    "released": "1993-04-23"
+    "released": "1993-04-23",
+    "tags": [
+      "fight",
+      "beat-the-player"
+    ]
   },
   {
     "name": "Magical Drop2",
@@ -2414,7 +3175,31 @@
     "additional_platforms": [
       "PC"
     ],
-    "released": "2012-11-15"
+    "released": "2012-11-15",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Steam Achievements",
+      "Инди",
+      "Multiplayer",
+      "Steam Cloud",
+      "Для нескольких игроков",
+      "Co-op",
+      "cooperative",
+      "Казуальная игра",
+      "Partial Controller Support",
+      "Головоломка",
+      "Steam Leaderboards",
+      "Split Screen",
+      "Локальный мультиплеер",
+      "Local Co-Op",
+      "stats",
+      "Аркада",
+      "Аниме",
+      "Anime",
+      "Соревновательная",
+      "Competitive"
+    ]
   },
   {
     "name": "Mario's Super Picross",
@@ -2449,7 +3234,11 @@
       "Wii",
       "SNES"
     ],
-    "released": "2011-02-18"
+    "released": "2011-02-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "NOBUNAGA'S AMBITION",
@@ -2477,7 +3266,10 @@
       "Commodore / Amiga",
       "Genesis"
     ],
-    "released": "2009-04-27"
+    "released": "2009-04-27",
+    "tags": [
+      "Multiplayer"
+    ]
   },
   {
     "name": "NOBUNAGA'S AMBITION: Lord of Darkness",
@@ -2499,7 +3291,19 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 70,
-    "released": "2013-11-14"
+    "released": "2013-11-14",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Steam Cloud",
+      "steam-trading-cards",
+      "Стратегия",
+      "Симулятор",
+      "Historical",
+      "История",
+      "Grand Strategy",
+      "Глобальная стратегия"
+    ]
   },
   {
     "name": "Operation Logic Bomb",
@@ -2517,7 +3321,10 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-04-23"
+    "released": "1993-04-23",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Panel de Pon",
@@ -2554,7 +3361,10 @@
       "Wii",
       "SNES"
     ],
-    "released": "1990-12-21"
+    "released": "1990-12-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Pop'n TwinBee",
@@ -2572,7 +3382,10 @@
     "additional_platforms": [
       "Game Boy"
     ],
-    "released": "1990-10-12"
+    "released": "1990-10-12",
+    "tags": [
+      "2 players"
+    ]
   },
   {
     "name": "Prehistorik Man",
@@ -2594,7 +3407,13 @@
       "Game Boy Advance",
       "SNES"
     ],
-    "released": "1995-06-23"
+    "released": "1995-06-23",
+    "tags": [
+      "Story",
+      "japan",
+      "sound",
+      "NES"
+    ]
   },
   {
     "name": "Psycho Dream",
@@ -2633,7 +3452,13 @@
       "Wii",
       "SNES"
     ],
-    "released": "1992-03-27"
+    "released": "1992-03-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op",
+      "versus"
+    ]
   },
   {
     "name": "Romance of the Three Kingdoms IV: Wall of Fire",
@@ -2658,7 +3483,18 @@
       "3DO"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1994-12-09"
+    "released": "1994-12-09",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Controller",
+      "Romance",
+      "console",
+      "fire",
+      "memory",
+      "castle",
+      "NES"
+    ]
   },
   {
     "name": "Side Pocket",
@@ -2680,7 +3516,11 @@
       "Genesis",
       "Game Gear"
     ],
-    "released": "1986-01-01"
+    "released": "1986-01-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Smash Tennis",
@@ -2708,7 +3548,10 @@
       "Game Boy",
       "SNES"
     ],
-    "released": "1991-04-26"
+    "released": "1991-04-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Star Fox 2",
@@ -2726,7 +3569,15 @@
       "SNES"
     ],
     "esrb_rating": "Teen",
-    "released": "2017-09-29"
+    "released": "2017-09-29",
+    "tags": [
+      "online",
+      "battle",
+      "console",
+      "NES",
+      "fox",
+      "prototype"
+    ]
   },
   {
     "name": "Star Fox",
@@ -2744,7 +3595,11 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-02-21"
+    "released": "1993-02-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Stunt Race FX",
@@ -2762,7 +3617,13 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1994-06-04"
+    "released": "1994-06-04",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Split Screen",
+      "Local Multiplayer"
+    ]
   },
   {
     "name": "Super Baseball Simulator 1.000",
@@ -2780,7 +3641,11 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1991-07-12"
+    "released": "1991-07-12",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Earth Defense Force",
@@ -2801,7 +3666,22 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 67,
-    "released": "2019-04-11"
+    "released": "2019-04-11",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Steam Achievements",
+      "Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Co-op",
+      "Online Co-Op",
+      "Online multiplayer",
+      "Split Screen",
+      "exclusive",
+      "true exclusive",
+      "Steam Trading Cards"
+    ]
   },
   {
     "name": "Super Ghouls'n Ghosts",
@@ -2824,7 +3704,14 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 78,
-    "released": "1991-10-04"
+    "released": "1991-10-04",
+    "tags": [
+      "Singleplayer",
+      "console",
+      "night",
+      "Ghosts",
+      "NES"
+    ]
   },
   {
     "name": "Super Mario All-Stars",
@@ -2845,7 +3732,11 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1993-07-14"
+    "released": "1993-07-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario Kart",
@@ -2868,7 +3759,15 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1993-08-27"
+    "released": "1993-08-27",
+    "tags": [
+      "console",
+      "Classes",
+      "Endless",
+      "NES",
+      "mario",
+      "banana"
+    ]
   },
   {
     "name": "Super Mario World",
@@ -2888,7 +3787,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 92,
-    "released": "1990-11-21"
+    "released": "1990-11-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario World 2: Yoshi's Island",
@@ -2907,7 +3810,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 91,
-    "released": "1995-08-05"
+    "released": "1995-08-05",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Super Metroid",
@@ -2929,7 +3835,10 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1994-03-19"
+    "released": "1994-03-19",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Super Ninja Boy",
@@ -2948,7 +3857,11 @@
       "Wii U",
       "SNES"
     ],
-    "released": "1991-12-28"
+    "released": "1991-12-28",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Punch-Out!!",
@@ -2970,7 +3883,12 @@
       "SNES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1994-09-14"
+    "released": "1994-09-14",
+    "tags": [
+      "console",
+      "humor",
+      "NES"
+    ]
   },
   {
     "name": "Super Puyo Puyo 2",
@@ -2998,7 +3916,11 @@
       "Game Gear",
       "Neo Geo"
     ],
-    "released": "1994-07-06"
+    "released": "1994-07-06",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "SUPER R-TYPE",
@@ -3014,7 +3936,15 @@
     "additional_platforms": [
       "Wii"
     ],
-    "released": "2008-03-17"
+    "released": "2008-03-17",
+    "tags": [
+      "battle",
+      "console",
+      "Monsters",
+      "planet",
+      "defense",
+      "NES"
+    ]
   },
   {
     "name": "Super Soccer",
@@ -3048,7 +3978,11 @@
       "SNES",
       "Atari ST"
     ],
-    "released": "1991-08-30"
+    "released": "1991-08-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Valis IV",
@@ -3089,7 +4023,14 @@
       "Wii"
     ],
     "esrb_rating": "Everyone",
-    "released": "2011-08-25"
+    "released": "2011-08-25",
+    "tags": [
+      "console",
+      "hero",
+      "fire",
+      "run",
+      "NES"
+    ]
   },
   {
     "name": "The Legend of Zelda: A Link to the Past",
@@ -3114,7 +4055,15 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 95,
-    "released": "1991-11-21"
+    "released": "1991-11-21",
+    "tags": [
+      "Dark",
+      "console",
+      "hero",
+      "princess",
+      "NES",
+      "zelda"
+    ]
   },
   {
     "name": "The Peace Keepers",
@@ -3132,7 +4081,12 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-12-17"
+    "released": "1993-12-17",
+    "tags": [
+      "Singleplayer",
+      "versus",
+      "Two-player"
+    ]
   },
   {
     "name": "Tuff E Nuff",
@@ -3150,7 +4104,11 @@
     "additional_platforms": [
       "SNES"
     ],
-    "released": "1993-03-26"
+    "released": "1993-03-26",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Uncharted Water: New Horizons",
@@ -3172,7 +4130,10 @@
       "SEGA Saturn"
     ],
     "esrb_rating": "Everyone",
-    "released": "2009-04-06"
+    "released": "2009-04-06",
+    "tags": [
+      "role-playing"
+    ]
   },
   {
     "name": "Wild Guns",
@@ -3192,7 +4153,12 @@
       "Wii",
       "SNES"
     ],
-    "released": "1994-08-12"
+    "released": "1994-08-12",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Wrecking Crew '98",
@@ -3214,7 +4180,11 @@
       "Game Boy Advance",
       "NES"
     ],
-    "released": "1985-06-18"
+    "released": "1985-06-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Alone in the Dark - The New Nightmare",
@@ -3238,7 +4208,19 @@
     ],
     "esrb_rating": "Mature",
     "metacritic": 66,
-    "released": "2001-05-18"
+    "released": "2001-05-18",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Приключение",
+      "Horror",
+      "Классика",
+      "Хоррор на выживание",
+      "Survival Horror",
+      "controller support",
+      "Лавкрафт",
+      "Lovecraftian"
+    ]
   },
   {
     "name": "Baseball",
@@ -3252,7 +4234,12 @@
       "Game Boy",
       "NES"
     ],
-    "released": "1983-12-07"
+    "released": "1983-12-07",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Two-player"
+    ]
   },
   {
     "name": "Blaster Master: Enemy Below",
@@ -3271,7 +4258,10 @@
       "Nintendo 3DS",
       "Game Boy Color"
     ],
-    "released": "2000-02-24"
+    "released": "2000-02-24",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "BurgerTime Deluxe",
@@ -3306,7 +4296,12 @@
       "Game Boy"
     ],
     "esrb_rating": "Teen",
-    "released": "1997-11-27"
+    "released": "1997-11-27",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Donkey Kong",
@@ -3336,7 +4331,11 @@
       "Atari 8-bit",
       "Atari XEGS"
     ],
-    "released": "1981-07-09"
+    "released": "1981-07-09",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Donkey Kong Land",
@@ -3355,7 +4354,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1995-06-26"
+    "released": "1995-06-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Donkey Kong Land 2",
@@ -3374,7 +4376,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1996-09-01"
+    "released": "1996-09-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Donkey Kong Land 3",
@@ -3394,7 +4399,10 @@
       "Game Boy Color",
       "Game Boy"
     ],
-    "released": "1997-10-01"
+    "released": "1997-10-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Dr. Mario",
@@ -3417,7 +4425,12 @@
       "SNES",
       "NES"
     ],
-    "released": "1990-07-27"
+    "released": "1990-07-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "puzzles"
+    ]
   },
   {
     "name": "Game & Watch Gallery 3",
@@ -3435,7 +4448,19 @@
       "PC",
       "macOS"
     ],
-    "released": "2014-10-30"
+    "released": "2014-10-30",
+    "tags": [
+      "Singleplayer",
+      "Приключение",
+      "Steam Achievements",
+      "Atmospheric",
+      "Атмосфера",
+      "steam-trading-cards",
+      "Казуальная игра",
+      "Головоломка",
+      "Три в ряд",
+      "Match 3"
+    ]
   },
   {
     "name": "Gargoyle's Quest",
@@ -3454,7 +4479,14 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1990-05-02"
+    "released": "1990-05-02",
+    "tags": [
+      "Singleplayer",
+      "console",
+      "build",
+      "fire",
+      "NES"
+    ]
   },
   {
     "name": "Gradius the Interstellar Assault",
@@ -3478,7 +4510,19 @@
       "NES",
       "Commodore / Amiga"
     ],
-    "released": "1985-01-01"
+    "released": "1985-01-01",
+    "tags": [
+      "Space",
+      "War",
+      "console",
+      "fight",
+      "race",
+      "destroy",
+      "planet",
+      "fighter",
+      "NES",
+      "lasers"
+    ]
   },
   {
     "name": "Kirby Tilt 'n' Tumble",
@@ -3496,7 +4540,12 @@
     "additional_platforms": [
       "Game Boy Color"
     ],
-    "released": "2000-08-23"
+    "released": "2000-08-23",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Kirby's Dream Land",
@@ -3515,7 +4564,11 @@
       "Game Boy"
     ],
     "esrb_rating": "Everyone",
-    "released": "1992-04-27"
+    "released": "1992-04-27",
+    "tags": [
+      "Singleplayer",
+      "exclusive"
+    ]
   },
   {
     "name": "Kirby’s Dream Land 2",
@@ -3534,7 +4587,10 @@
       "Game Boy"
     ],
     "esrb_rating": "Everyone",
-    "released": "1995-03-21"
+    "released": "1995-03-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Kirby's Star Stacker",
@@ -3552,7 +4608,11 @@
     "additional_platforms": [
       "Nintendo 3DS"
     ],
-    "released": "2013-01-17"
+    "released": "2013-01-17",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mario Golf",
@@ -3572,7 +4632,11 @@
       "Nintendo 64",
       "Game Boy Color"
     ],
-    "released": "1999-06-11"
+    "released": "1999-06-11",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mario's Picross",
@@ -3591,7 +4655,11 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1995-03-14"
+    "released": "1995-03-14",
+    "tags": [
+      "Singleplayer",
+      "puzzles"
+    ]
   },
   {
     "name": "Mario Tennis",
@@ -3610,7 +4678,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 91,
-    "released": "2000-07-21"
+    "released": "2000-07-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mega Man: Dr. Wily's Revenge",
@@ -3629,7 +4701,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1991-07-26"
+    "released": "1991-07-26",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Mega Man II",
@@ -3652,7 +4727,17 @@
       "NES"
     ],
     "esrb_rating": "Everyone",
-    "released": "1988-12-24"
+    "released": "1988-12-24",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Controller",
+      "console",
+      "Soundtrack",
+      "memory",
+      "japan",
+      "versus"
+    ]
   },
   {
     "name": "Mega Man III",
@@ -3678,7 +4763,10 @@
       "Wii",
       "NES"
     ],
-    "released": "1990-09-28"
+    "released": "1990-09-28",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Mega Man IV",
@@ -3700,7 +4788,19 @@
       "PlayStation",
       "NES"
     ],
-    "released": "1991-12-06"
+    "released": "1991-12-06",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Controller",
+      "console",
+      "memory",
+      "japan",
+      "dodge",
+      "run",
+      "terror",
+      "versus"
+    ]
   },
   {
     "name": "Mega Man V",
@@ -3724,7 +4824,10 @@
       "Wii",
       "NES"
     ],
-    "released": "1992-12-04"
+    "released": "1992-12-04",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Metroid II - Return of Samus",
@@ -3743,7 +4846,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1991-11-01"
+    "released": "1991-11-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Pokémon Trading Card Game",
@@ -3762,7 +4868,12 @@
       "Nintendo 3DS",
       "Game Boy Color"
     ],
-    "released": "1998-12-18"
+    "released": "1998-12-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "puzzles"
+    ]
   },
   {
     "name": "Quest for Camelot",
@@ -3780,7 +4891,12 @@
     "additional_platforms": [
       "Game Boy Color"
     ],
-    "released": "1998-12-01"
+    "released": "1998-12-01",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Super Mario Land",
@@ -3799,7 +4915,11 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1989-04-21"
+    "released": "1989-04-21",
+    "tags": [
+      "Singleplayer",
+      "Side-Scrolling"
+    ]
   },
   {
     "name": "Super Mario Land 2: 6 Golden Coins",
@@ -3818,7 +4938,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1992-10-21"
+    "released": "1992-10-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Survival Kids",
@@ -3837,7 +4960,10 @@
       "Game Boy Color",
       "Game Boy"
     ],
-    "released": "1999-06-17"
+    "released": "1999-06-17",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Tetris",
@@ -3860,7 +4986,11 @@
       "Atari ST",
       "Genesis"
     ],
-    "released": "1984-06-06"
+    "released": "1984-06-06",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Tetris DX",
@@ -3883,7 +5013,11 @@
       "Atari ST",
       "Genesis"
     ],
-    "released": "1984-06-06"
+    "released": "1984-06-06",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "The Legend of Zelda: Link's Awakening DX",
@@ -3903,7 +5037,19 @@
       "Game Boy Color",
       "Game Boy"
     ],
-    "released": "1993-06-06"
+    "released": "1993-06-06",
+    "tags": [
+      "Story",
+      "3rd-Person Perspective",
+      "puzzles",
+      "console",
+      "island",
+      "Monsters",
+      "escape",
+      "princess",
+      "NES",
+      "zelda"
+    ]
   },
   {
     "name": "The Legend of Zelda: Oracle of Ages",
@@ -3922,7 +5068,10 @@
       "Nintendo 3DS",
       "Game Boy Color"
     ],
-    "released": "2001-02-27"
+    "released": "2001-02-27",
+    "tags": [
+      "exclusive"
+    ]
   },
   {
     "name": "The Legend of Zelda: Oracle of Seasons",
@@ -3941,7 +5090,11 @@
       "Nintendo 3DS",
       "Game Boy Color"
     ],
-    "released": "2001-02-27"
+    "released": "2001-02-27",
+    "tags": [
+      "Singleplayer",
+      "exclusive"
+    ]
   },
   {
     "name": "The Sword of Hope",
@@ -3960,7 +5113,10 @@
       "Nintendo 3DS",
       "Game Boy"
     ],
-    "released": "1989-12-28"
+    "released": "1989-12-28",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Wario Land 3",
@@ -3979,7 +5135,10 @@
       "Nintendo 3DS",
       "Game Boy Color"
     ],
-    "released": "2000-03-21"
+    "released": "2000-03-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Densetsu no Starfy 2",
@@ -3997,7 +5156,11 @@
       "Game Boy Advance"
     ],
     "esrb_rating": "Everyone",
-    "released": "2002-09-06"
+    "released": "2002-09-06",
+    "tags": [
+      "Singleplayer",
+      "fan-translation"
+    ]
   },
   {
     "name": "Densetsu no Starfy 3",
@@ -4015,7 +5178,11 @@
       "Game Boy Advance"
     ],
     "esrb_rating": "Everyone",
-    "released": "2002-09-06"
+    "released": "2002-09-06",
+    "tags": [
+      "Singleplayer",
+      "fan-translation"
+    ]
   },
   {
     "name": "Fire Emblem",
@@ -4036,7 +5203,13 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 88,
-    "released": "2003-04-25"
+    "released": "2003-04-25",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing",
+      "Perma Death"
+    ]
   },
   {
     "name": "Fire Emblem: The Sacred Stones",
@@ -4056,7 +5229,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 85,
-    "released": "2004-10-07"
+    "released": "2004-10-07",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "F-Zero Climax",
@@ -4075,7 +5252,11 @@
       "Game Boy Advance"
     ],
     "esrb_rating": "Everyone",
-    "released": "2004-10-21"
+    "released": "2004-10-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "F-Zero: GP Legend",
@@ -4095,7 +5276,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 77,
-    "released": "2003-11-28"
+    "released": "2003-11-28",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "F-Zero Maximum Velocity",
@@ -4114,7 +5299,15 @@
       "Wii U"
     ],
     "esrb_rating": "Everyone",
-    "released": "2014-04-17"
+    "released": "2014-04-17",
+    "tags": [
+      "console",
+      "race",
+      "speed",
+      "galaxy",
+      "NES",
+      "metal"
+    ]
   },
   {
     "name": "Golden Sun: The Lost Age",
@@ -4134,7 +5327,14 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 86,
-    "released": "2003-04-14"
+    "released": "2003-04-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing",
+      "2 players",
+      "Game Link Cable"
+    ]
   },
   {
     "name": "Golden Sun",
@@ -4154,7 +5354,14 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 91,
-    "released": "2001-11-11"
+    "released": "2001-11-11",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing",
+      "2 players",
+      "Game Link Cable"
+    ]
   },
   {
     "name": "Kirby & The Amazing Mirror",
@@ -4174,7 +5381,12 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 80,
-    "released": "2004-04-15"
+    "released": "2004-04-15",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Kuru Kuru Kururin",
@@ -4192,7 +5404,10 @@
     "additional_platforms": [
       "Wii U"
     ],
-    "released": "2016-02-11"
+    "released": "2016-02-11",
+    "tags": [
+      "puzzles"
+    ]
   },
   {
     "name": "Mario & Luigi: Superstar Saga",
@@ -4212,7 +5427,12 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 90,
-    "released": "2003-11-17"
+    "released": "2003-11-17",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "Mario Kart: Super Circuit",
@@ -4232,7 +5452,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 93,
-    "released": "2001-07-21"
+    "released": "2001-07-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Metroid Fusion",
@@ -4252,7 +5476,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 92,
-    "released": "2002-11-17"
+    "released": "2002-11-17",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Metroid: Zero Mission",
@@ -4272,7 +5499,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 89,
-    "released": "2004-02-09"
+    "released": "2004-02-09",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Pokémon Mystery Dungeon: Red Rescue Team",
@@ -4293,7 +5523,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 67,
-    "released": "2005-11-17"
+    "released": "2005-11-17",
+    "tags": [
+      "role-playing"
+    ]
   },
   {
     "name": "Super Mario Advance",
@@ -4313,7 +5546,15 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 84,
-    "released": "2001-06-11"
+    "released": "2001-06-11",
+    "tags": [
+      "Music",
+      "friends",
+      "console",
+      "princess",
+      "NES",
+      "mario"
+    ]
   },
   {
     "name": "Super Mario Advance 4: Super Mario Bros. 3",
@@ -4345,7 +5586,15 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 92,
-    "released": "2001-12-14"
+    "released": "2001-12-14",
+    "tags": [
+      "console",
+      "island",
+      "fire",
+      "NES",
+      "mario",
+      "flower"
+    ]
   },
   {
     "name": "The Legend of Zelda: A Link to the Past and Four Swords",
@@ -4370,7 +5619,15 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 95,
-    "released": "1991-11-21"
+    "released": "1991-11-21",
+    "tags": [
+      "Dark",
+      "console",
+      "hero",
+      "princess",
+      "NES",
+      "zelda"
+    ]
   },
   {
     "name": "The Legend of Zelda: The Minish Cap",
@@ -4391,7 +5648,10 @@
       "Game Boy Advance"
     ],
     "esrb_rating": "Everyone",
-    "released": "2004-11-04"
+    "released": "2004-11-04",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Wario Land 4",
@@ -4411,7 +5671,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 88,
-    "released": "2001-08-21"
+    "released": "2001-08-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "WarioWare",
@@ -4431,7 +5694,12 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 88,
-    "released": "2004-10-14"
+    "released": "2004-10-14",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Inc.: Minigame Mania",
@@ -4448,7 +5716,13 @@
       "macOS",
       "Web"
     ],
-    "released": "2019-01-17"
+    "released": "2019-01-17",
+    "tags": [
+      "2D",
+      "Ludum Dare 37",
+      "castle",
+      "protect"
+    ]
   },
   {
     "name": "Yoshi's Island: Super Mario Advance 3",
@@ -4467,7 +5741,16 @@
       "Game Boy Advance"
     ],
     "esrb_rating": "Everyone",
-    "released": "2002-09-20"
+    "released": "2002-09-20",
+    "tags": [
+      "puzzles",
+      "console",
+      "Traps",
+      "tank",
+      "NES",
+      "mario",
+      "baby"
+    ]
   },
   {
     "name": "Banjo-Kazooie",
@@ -4490,7 +5773,12 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 92,
-    "released": "1998-05-31"
+    "released": "1998-05-31",
+    "tags": [
+      "Singleplayer",
+      "fun",
+      "bird"
+    ]
   },
   {
     "name": "Banjo-Tooie",
@@ -4512,7 +5800,14 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 90,
-    "released": "2000-11-20"
+    "released": "2000-11-20",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "fun",
+      "memory",
+      "bird"
+    ]
   },
   {
     "name": "Blast Corps",
@@ -4530,7 +5825,12 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "1997-03-21"
+    "released": "1997-03-21",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Dr. Mario 64",
@@ -4548,7 +5848,11 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "2001-04-08"
+    "released": "2001-04-08",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Excitebike 64",
@@ -4567,7 +5871,11 @@
       "Wii U",
       "Nintendo 64"
     ],
-    "released": "2000-04-30"
+    "released": "2000-04-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Extreme-G",
@@ -4585,7 +5893,13 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "1997-09-30"
+    "released": "1997-09-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "F-Zero X",
@@ -4605,7 +5919,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 85,
-    "released": "1998-07-14"
+    "released": "1998-07-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "GoldenEye 007",
@@ -4624,7 +5942,13 @@
       "Nintendo 64"
     ],
     "metacritic": 96,
-    "released": "1997-08-23"
+    "released": "1997-08-23",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Harvest Moon 64",
@@ -4645,7 +5969,10 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 78,
-    "released": "1999-11-30"
+    "released": "1999-11-30",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Iggy's Reckin' Balls",
@@ -4664,7 +5991,13 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Everyone",
-    "released": "1998-07-31"
+    "released": "1998-07-31",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Jet Force Gemini",
@@ -4684,7 +6017,12 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 80,
-    "released": "1999-10-11"
+    "released": "1999-10-11",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Killer Instinct Gold",
@@ -4702,7 +6040,13 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "1996-11-25"
+    "released": "1996-11-25",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Kirby 64: The Crystal Shards",
@@ -4722,7 +6066,11 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Teen",
-    "released": "2000-06-26"
+    "released": "2000-06-26",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Lylat Wars",
@@ -4742,7 +6090,12 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 81,
-    "released": "1997-04-27"
+    "released": "1997-04-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "Mario Golf",
@@ -4762,7 +6115,11 @@
       "Nintendo 64",
       "Game Boy Color"
     ],
-    "released": "1999-06-11"
+    "released": "1999-06-11",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mario Kart 64",
@@ -4784,7 +6141,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 83,
-    "released": "1996-12-14"
+    "released": "1996-12-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mario Party",
@@ -4805,7 +6166,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 79,
-    "released": "1998-12-18"
+    "released": "1998-12-18",
+    "tags": [
+      "exclusive"
+    ]
   },
   {
     "name": "Mario Party 2",
@@ -4826,7 +6190,11 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Everyone",
-    "released": "1999-12-17"
+    "released": "1999-12-17",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Mario Party 3",
@@ -4846,7 +6214,13 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 74,
-    "released": "2000-12-07"
+    "released": "2000-12-07",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Mario Tennis",
@@ -4865,7 +6239,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 91,
-    "released": "2000-07-21"
+    "released": "2000-07-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Operation: WinBack",
@@ -4884,7 +6262,11 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Teen",
-    "released": "1999-09-30"
+    "released": "1999-09-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Paper Mario",
@@ -4904,7 +6286,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 93,
-    "released": "2000-08-11"
+    "released": "2000-08-11",
+    "tags": [
+      "RPG",
+      "role-playing"
+    ]
   },
   {
     "name": "Perfect Dark",
@@ -4925,7 +6311,10 @@
     ],
     "esrb_rating": "Mature",
     "metacritic": 97,
-    "released": "2000-05-22"
+    "released": "2000-05-22",
+    "tags": [
+      "exclusive"
+    ]
   },
   {
     "name": "Pilotwings 64",
@@ -4943,7 +6332,12 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "1996-06-23"
+    "released": "1996-06-23",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Pokémon Puzzle League",
@@ -4961,7 +6355,10 @@
       "Wii",
       "Nintendo 64"
     ],
-    "released": "2000-09-25"
+    "released": "2000-09-25",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Pokémon Snap",
@@ -4984,7 +6381,11 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 77,
-    "released": "1999-03-21"
+    "released": "1999-03-21",
+    "tags": [
+      "Singleplayer",
+      "pokemon"
+    ]
   },
   {
     "name": "Pokémon Stadium",
@@ -4999,7 +6400,13 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "1999-04-30"
+    "released": "1999-04-30",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Pokémon Stadium 2",
@@ -5017,7 +6424,13 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "2000-12-14"
+    "released": "2000-12-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Ridge Racer 64",
@@ -5035,7 +6448,11 @@
     "additional_platforms": [
       "Nintendo 64"
     ],
-    "released": "2000-02-14"
+    "released": "2000-02-14",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Shadow Man",
@@ -5059,7 +6476,32 @@
       "Dreamcast"
     ],
     "esrb_rating": "Mature",
-    "released": "1999-08-31"
+    "released": "1999-08-31",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Atmospheric",
+      "Атмосфера",
+      "Отличный саундтрек",
+      "Great Soundtrack",
+      "От третьего лица",
+      "Third Person",
+      "Horror",
+      "Классика",
+      "Classic",
+      "Мрачная",
+      "Dark",
+      "90-е",
+      "Metroidvania",
+      "Метроидвания",
+      "1990's",
+      "Культовая классика",
+      "По комиксу",
+      "Cult Classic",
+      "Сверхъестественное"
+    ]
   },
   {
     "name": "Sin and Punishment",
@@ -5078,7 +6520,14 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Teen",
-    "released": "2007-10-01"
+    "released": "2007-10-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative",
+      "First-Person",
+      "Import"
+    ]
   },
   {
     "name": "Star Fox 64",
@@ -5098,7 +6547,12 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 81,
-    "released": "1997-04-27"
+    "released": "1997-04-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "role-playing"
+    ]
   },
   {
     "name": "Super Mario 64",
@@ -5118,7 +6572,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 94,
-    "released": "1996-06-23"
+    "released": "1996-06-23",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "The Legend of Zelda: Majora's Mask",
@@ -5139,7 +6596,10 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 95,
-    "released": "2000-04-27"
+    "released": "2000-04-27",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "The Legend of Zelda: Ocarina of Time",
@@ -5160,7 +6620,10 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 99,
-    "released": "1998-11-21"
+    "released": "1998-11-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Turok 2: Seeds of Evil",
@@ -5183,7 +6646,40 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Teen",
-    "released": "1998-10-21"
+    "released": "1998-10-21",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "Для нескольких игроков",
+      "Отличный саундтрек",
+      "Great Soundtrack",
+      "Шутер",
+      "От первого лица",
+      "Научная фантастика",
+      "Sci-fi",
+      "Partial Controller Support",
+      "FPS",
+      "Шутер от первого лица",
+      "Сложная",
+      "Мясо",
+      "Классика",
+      "Gore",
+      "Classic",
+      "Насилие",
+      "Violent",
+      "Online multiplayer",
+      "Split Screen",
+      "Ретро",
+      "90-е",
+      "Разделение экрана",
+      "Dinosaurs",
+      "Динозавры"
+    ]
   },
   {
     "name": "Turok: Dinosaur Hunter",
@@ -5207,7 +6703,44 @@
       "Nintendo 64",
       "Game Boy"
     ],
-    "released": "1997-03-04"
+    "released": "1997-03-04",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Atmospheric",
+      "Для нескольких игроков",
+      "Атмосфера",
+      "Отличный саундтрек",
+      "Шутер",
+      "От первого лица",
+      "First-Person",
+      "Научная фантастика",
+      "FPS",
+      "Шутер от первого лица",
+      "Фэнтези",
+      "Fantasy",
+      "Мясо",
+      "Классика",
+      "Classic",
+      "Платформер",
+      "Ретро",
+      "Retro",
+      "90-е",
+      "Олдскул",
+      "3D-платформер",
+      "1990's",
+      "achievements",
+      "Культовая классика",
+      "3D Platformer",
+      "Dinosaurs",
+      "Динозавры"
+    ]
   },
   {
     "name": "Turok 2: Seeds of Evil",
@@ -5230,7 +6763,40 @@
       "Nintendo 64"
     ],
     "esrb_rating": "Teen",
-    "released": "1998-10-21"
+    "released": "1998-10-21",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Multiplayer",
+      "Steam Cloud",
+      "Для нескольких игроков",
+      "Отличный саундтрек",
+      "Great Soundtrack",
+      "Шутер",
+      "От первого лица",
+      "Научная фантастика",
+      "Sci-fi",
+      "Partial Controller Support",
+      "FPS",
+      "Шутер от первого лица",
+      "Сложная",
+      "Мясо",
+      "Классика",
+      "Gore",
+      "Classic",
+      "Насилие",
+      "Violent",
+      "Online multiplayer",
+      "Split Screen",
+      "Ретро",
+      "90-е",
+      "Разделение экрана",
+      "Dinosaurs",
+      "Динозавры"
+    ]
   },
   {
     "name": "Wave Race 64",
@@ -5250,7 +6816,14 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 92,
-    "released": "1996-09-27"
+    "released": "1996-09-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "console",
+      "water",
+      "NES"
+    ]
   },
   {
     "name": "Yoshi's Story",
@@ -5269,7 +6842,10 @@
       "Wii",
       "Nintendo 64"
     ],
-    "released": "1997-12-21"
+    "released": "1997-12-21",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "F-Zero GX",
@@ -5289,7 +6865,13 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 89,
-    "released": "2003-07-25"
+    "released": "2003-07-25",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Soulcalibur II",
@@ -5311,7 +6893,11 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 92,
-    "released": "2002-07-05"
+    "released": "2002-07-05",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Super Mario Strikers",
@@ -5331,7 +6917,13 @@
     ],
     "esrb_rating": "Everyone",
     "metacritic": 76,
-    "released": "2005-11-18"
+    "released": "2005-11-18",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Alien Storm",
@@ -5354,7 +6946,13 @@
       "Genesis",
       "SEGA Master System"
     ],
-    "released": "1991-06-28"
+    "released": "1991-06-28",
+    "tags": [
+      "Singleplayer",
+      "First-Person",
+      "3rd-Person Perspective",
+      "Side-Scrolling"
+    ]
   },
   {
     "name": "Alisia Dragoon",
@@ -5373,7 +6971,12 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1992-03-30"
+    "released": "1992-03-30",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Altered Beast",
@@ -5403,7 +7006,16 @@
     ],
     "esrb_rating": "Teen",
     "metacritic": 40,
-    "released": "1988-11-27"
+    "released": "1988-11-27",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative",
+      "Partial Controller Support",
+      "Split Screen",
+      "Retro",
+      "Beat 'em up"
+    ]
   },
   {
     "name": "Beyond Oasis",
@@ -5423,7 +7035,14 @@
       "Wii"
     ],
     "esrb_rating": "Everyone",
-    "released": "2007-03-19"
+    "released": "2007-03-19",
+    "tags": [
+      "Singleplayer",
+      "RPG",
+      "Classic",
+      "Retro",
+      "role-playing"
+    ]
   },
   {
     "name": "Castlevania: Bloodlines",
@@ -5441,7 +7060,10 @@
       "Genesis"
     ],
     "esrb_rating": "Rating Pending",
-    "released": "1994-03-17"
+    "released": "1994-03-17",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Columns",
@@ -5466,7 +7088,12 @@
       "Game Gear",
       "Neo Geo"
     ],
-    "released": "1990-06-29"
+    "released": "1990-06-29",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Comix Zone",
@@ -5492,7 +7119,18 @@
       "Genesis",
       "SEGA Master System"
     ],
-    "released": "1995-01-01"
+    "released": "1995-01-01",
+    "tags": [
+      "Singleplayer",
+      "2D",
+      "Difficult",
+      "Classic",
+      "Retro",
+      "Side Scroller",
+      "Beat 'em up",
+      "1990's",
+      "Comic Book"
+    ]
   },
   {
     "name": "Contra: Hard Corps",
@@ -5510,7 +7148,12 @@
     "additional_platforms": [
       "Genesis"
     ],
-    "released": "1994-08-08"
+    "released": "1994-08-08",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Crusaders of Centy",
@@ -5529,7 +7172,11 @@
       "PC"
     ],
     "metacritic": 78,
-    "released": "2002-09-27"
+    "released": "2002-09-27",
+    "tags": [
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Dr. Robotnik's Mean Bean Machine",
@@ -5553,7 +7200,11 @@
       "SEGA Master System",
       "Game Gear"
     ],
-    "released": "1993-11-26"
+    "released": "1993-11-26",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Dynamite Headdy",
@@ -5575,7 +7226,10 @@
       "SEGA Master System",
       "Game Gear"
     ],
-    "released": "1994-09-01"
+    "released": "1994-09-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Earthworm Jim",
@@ -5606,7 +7260,26 @@
       "Game Gear"
     ],
     "metacritic": 72,
-    "released": "1994-08-02"
+    "released": "1994-08-02",
+    "tags": [
+      "Singleplayer",
+      "Экшен",
+      "Отличный саундтрек",
+      "Great Soundtrack",
+      "2D",
+      "Классика",
+      "Classic",
+      "Юмор",
+      "Comedy",
+      "Платформер",
+      "Ретро",
+      "Retro",
+      "Для всей семьи",
+      "Family Friendly",
+      "Вид сбоку",
+      "Side Scroller",
+      "classic-games"
+    ]
   },
   {
     "name": "Ecco the Dolphin",
@@ -5632,7 +7305,10 @@
       "SEGA Master System",
       "Game Gear"
     ],
-    "released": "1992-07-31"
+    "released": "1992-07-31",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "ESWAT: City Under Siege",
@@ -5649,7 +7325,12 @@
       "PC",
       "Genesis"
     ],
-    "released": "1990-07-14"
+    "released": "1990-07-14",
+    "tags": [
+      "Singleplayer",
+      "Partial Controller Support",
+      "Retro"
+    ]
   },
   {
     "name": "Flicky",
@@ -5668,7 +7349,10 @@
       "PC",
       "Genesis"
     ],
-    "released": "1991-05-01"
+    "released": "1991-05-01",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Ghouls 'n Ghosts",
@@ -5692,7 +7376,11 @@
       "Genesis",
       "SEGA Master System"
     ],
-    "released": "1989-10-29"
+    "released": "1989-10-29",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Golden Axe",
@@ -5719,7 +7407,12 @@
       "Genesis",
       "SEGA Master System"
     ],
-    "released": "1989-12-23"
+    "released": "1989-12-23",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Golden Axe II",
@@ -5740,7 +7433,12 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1991-12-26"
+    "released": "1991-12-26",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "cooperative"
+    ]
   },
   {
     "name": "Gunstar Heroes",
@@ -5767,7 +7465,20 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 75,
-    "released": "1993-09-09"
+    "released": "1993-09-09",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Great Soundtrack",
+      "Co-op",
+      "cooperative",
+      "2D",
+      "Classic",
+      "Split Screen",
+      "Local Co-Op",
+      "Side Scroller",
+      "Shoot 'Em Up"
+    ]
   },
   {
     "name": "Kid Chameleon",
@@ -5789,7 +7500,11 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1992-05-28"
+    "released": "1992-05-28",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
+    ]
   },
   {
     "name": "Landstalker",
@@ -5811,7 +7526,15 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone",
-    "released": "1992-10-30"
+    "released": "1992-10-30",
+    "tags": [
+      "Singleplayer",
+      "RPG",
+      "Partial Controller Support",
+      "Action RPG",
+      "role-playing",
+      "Isometric"
+    ]
   },
   {
     "name": "Light Crusader",
@@ -5831,7 +7554,10 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1995-05-25"
+    "released": "1995-05-25",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "M.U.S.H.A.",
@@ -5844,7 +7570,11 @@
     "additional_platforms": [
       "Web"
     ],
-    "released": "2018-02-05"
+    "released": "2018-02-05",
+    "tags": [
+      "Music",
+      "1GAM"
+    ]
   },
   {
     "name": "Mega Man: The Wily Wars",
@@ -5862,7 +7592,12 @@
     "additional_platforms": [
       "Genesis"
     ],
-    "released": "1994-10-21"
+    "released": "1994-10-21",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Phantasy Star IV",
@@ -5883,7 +7618,20 @@
       "Genesis"
     ],
     "esrb_rating": "Teen",
-    "released": "1993-12-17"
+    "released": "1993-12-17",
+    "tags": [
+      "Singleplayer",
+      "Great Soundtrack",
+      "RPG",
+      "2D",
+      "Sci-fi",
+      "Fantasy",
+      "Classic",
+      "Retro",
+      "Anime",
+      "role-playing",
+      "JRPG"
+    ]
   },
   {
     "name": "Pulseman",
@@ -5902,7 +7650,10 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1994-07-22"
+    "released": "1994-07-22",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Ristar",
@@ -5925,7 +7676,14 @@
       "Game Gear"
     ],
     "esrb_rating": "Everyone",
-    "released": "1995-02-16"
+    "released": "1995-02-16",
+    "tags": [
+      "Singleplayer",
+      "Great Soundtrack",
+      "2D",
+      "Partial Controller Support",
+      "Classic"
+    ]
   },
   {
     "name": "Shining Force",
@@ -5949,7 +7707,18 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1992-03-20"
+    "released": "1992-03-20",
+    "tags": [
+      "Singleplayer",
+      "RPG",
+      "Partial Controller Support",
+      "Fantasy",
+      "Retro",
+      "role-playing",
+      "Turn-Based Strategy",
+      "JRPG",
+      "Strategy RPG"
+    ]
   },
   {
     "name": "Shining Force II",
@@ -5972,7 +7741,21 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1993-10-01"
+    "released": "1993-10-01",
+    "tags": [
+      "Singleplayer",
+      "RPG",
+      "2D",
+      "Partial Controller Support",
+      "Fantasy",
+      "Classic",
+      "Retro",
+      "role-playing",
+      "Turn-Based Strategy",
+      "JRPG",
+      "Tactical RPG",
+      "Strategy RPG"
+    ]
   },
   {
     "name": "Shinobi III: Return of the Ninja Master",
@@ -5994,7 +7777,14 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1993-07-23"
+    "released": "1993-07-23",
+    "tags": [
+      "Singleplayer",
+      "2D",
+      "Partial Controller Support",
+      "Classic",
+      "Ninja"
+    ]
   },
   {
     "name": "Sonic The Hedgehog 2",
@@ -6024,7 +7814,21 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 78,
-    "released": "1992-11-21"
+    "released": "1992-11-21",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Great Soundtrack",
+      "cooperative",
+      "2D",
+      "Partial Controller Support",
+      "Classic",
+      "Local Co-Op",
+      "Local Multiplayer",
+      "Retro",
+      "Colorful",
+      "1990's"
+    ]
   },
   {
     "name": "Sonic The Hedgehog Spinball",
@@ -6043,7 +7847,13 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 44,
-    "released": "2006-11-14"
+    "released": "2006-11-14",
+    "tags": [
+      "sonic",
+      "Platform",
+      "janky",
+      "worst"
+    ]
   },
   {
     "name": "Space Harrier II",
@@ -6067,7 +7877,10 @@
       "Atari ST",
       "Genesis"
     ],
-    "released": "1988-10-29"
+    "released": "1988-10-29",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Street Fighter II: Champion Edition",
@@ -6087,7 +7900,10 @@
       "Genesis",
       "SEGA Master System"
     ],
-    "released": "1992-03-01"
+    "released": "1992-03-01",
+    "tags": [
+      "2 players"
+    ]
   },
   {
     "name": "Streets of Rage",
@@ -6115,7 +7931,17 @@
       "Game Gear"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1991-08-02"
+    "released": "1991-08-02",
+    "tags": [
+      "Singleplayer",
+      "Great Soundtrack",
+      "2D",
+      "Partial Controller Support",
+      "Classic",
+      "Split Screen",
+      "Retro",
+      "Beat 'em up"
+    ]
   },
   {
     "name": "Streets of Rage 2",
@@ -6145,7 +7971,20 @@
       "Game Gear"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1992-12-20"
+    "released": "1992-12-20",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Great Soundtrack",
+      "cooperative",
+      "2D",
+      "Partial Controller Support",
+      "Classic",
+      "Split Screen",
+      "Local Co-Op",
+      "Retro",
+      "Beat 'em up"
+    ]
   },
   {
     "name": "Strider",
@@ -6169,7 +8008,48 @@
     ],
     "esrb_rating": "Everyone 10+",
     "metacritic": 78,
-    "released": "2012-02-16"
+    "released": "2012-02-16",
+    "tags": [
+      "Singleplayer",
+      "Для одного игрока",
+      "Экшен",
+      "Приключение",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "steam-trading-cards",
+      "2D",
+      "Научная фантастика",
+      "Sci-fi",
+      "Классика",
+      "Steam Leaderboards",
+      "Classic",
+      "Платформер",
+      "Ретро",
+      "Контроллер",
+      "Controller",
+      "Аркада",
+      "Retro",
+      "Аниме",
+      "Anime",
+      "Слэшер",
+      "Hack and Slash",
+      "Вид сбоку",
+      "Side Scroller",
+      "Быстрая",
+      "Fast-Paced",
+      "Киберпанк",
+      "Cyberpunk",
+      "Beat 'em up",
+      "Римейк",
+      "Metroidvania",
+      "Метроидвания",
+      "Remake",
+      "Псевдотрёхмерность",
+      "2.5D",
+      "Ниндзя",
+      "Ninja"
+    ]
   },
   {
     "name": "Super Fantasy Zone",
@@ -6188,7 +8068,10 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1992-01-14"
+    "released": "1992-01-14",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Super Thunder Blade",
@@ -6208,7 +8091,12 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1988-10-29"
+    "released": "1988-10-29",
+    "tags": [
+      "Singleplayer",
+      "Top-Down",
+      "3rd-Person Perspective"
+    ]
   },
   {
     "name": "Sword of Vermilion",
@@ -6228,7 +8116,10 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1989-12-16"
+    "released": "1989-12-16",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Target Earth",
@@ -6241,7 +8132,11 @@
     "additional_platforms": [
       "Web"
     ],
-    "released": "2018-08-12"
+    "released": "2018-08-12",
+    "tags": [
+      "Bullet Hell",
+      "Ludum Dare 42"
+    ]
   },
   {
     "name": "The Revenge of Shinobi",
@@ -6259,7 +8154,12 @@
     "additional_platforms": [
       "Game Boy Advance"
     ],
-    "released": "2002-11-19"
+    "released": "2002-11-19",
+    "tags": [
+      "Singleplayer",
+      "exclusive",
+      "true exclusive"
+    ]
   },
   {
     "name": "Thunder Force II",
@@ -6277,7 +8177,10 @@
     "additional_platforms": [
       "Genesis"
     ],
-    "released": "1989-06-15"
+    "released": "1989-06-15",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "ToeJam & Earl",
@@ -6300,7 +8203,18 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1992-03-13"
+    "released": "1992-03-13",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Great Soundtrack",
+      "cooperative",
+      "Partial Controller Support",
+      "Classic",
+      "Split Screen",
+      "Local Co-Op",
+      "Roguelike"
+    ]
   },
   {
     "name": "ToeJam & Earl in Panic on Funkotron",
@@ -6323,7 +8237,13 @@
       "Genesis"
     ],
     "esrb_rating": "Everyone 10+",
-    "released": "1993-12-01"
+    "released": "1993-12-01",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer",
+      "Partial Controller Support",
+      "Split Screen"
+    ]
   },
   {
     "name": "Virtua Fighter 2",
@@ -6345,7 +8265,12 @@
       "Genesis",
       "SEGA Saturn"
     ],
-    "released": "1995-10-30"
+    "released": "1995-10-30",
+    "tags": [
+      "Singleplayer",
+      "cooperative",
+      "2 players"
+    ]
   },
   {
     "name": "Vectorman",
@@ -6365,7 +8290,10 @@
       "Wii",
       "Genesis"
     ],
-    "released": "1995-10-24"
+    "released": "1995-10-24",
+    "tags": [
+      "Singleplayer"
+    ]
   },
   {
     "name": "Wolf of the Battlefield: Mercs",
@@ -6381,7 +8309,12 @@
     "additional_platforms": [
       "Wii"
     ],
-    "released": "2009-02-09"
+    "released": "2009-02-09",
+    "tags": [
+      "console",
+      "Tanks",
+      "NES"
+    ]
   },
   {
     "name": "Zero Wing",
@@ -6399,6 +8332,9 @@
     "additional_platforms": [
       "Genesis"
     ],
-    "released": "1991-05-31"
+    "released": "1991-05-31",
+    "tags": [
+      "Singleplayer"
+    ]
   }
 ]
