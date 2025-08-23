@@ -6,11 +6,13 @@ class GameDisplay {
         this.searchInput = document.getElementById('search');
         this.favouritesButton = document.getElementById('filter-favourites');
         this.platformDropdown = document.getElementById('platform-filter');
+        this.twoPlayerButton = document.getElementById('filter-2player');
 
         this.allGames = [];
         this.favourites = new Set(JSON.parse(localStorage.getItem('favouriteGames') || '[]'));
         this.favouritesFilterEnabled = false;
         this.platformFilter = '';
+        this.twoPlayerFilterEnabled = false;
 
         this.init();
     }
@@ -22,6 +24,7 @@ class GameDisplay {
             this.setupSearch();
             this.setupFavouritesButton();
             this.setupPlatformDropdown();
+            this.setupTwoPlayerButton();
             this.setupPopState();
             this.setFiltersFromQuery();
             this.updateFilteredDisplay();
@@ -55,7 +58,8 @@ class GameDisplay {
         return {
             search: this.searchInput?.value || '',
             favourites: this.favouritesFilterEnabled ? '1' : '',
-            platform: this.platformDropdown?.value || ''
+            platform: this.platformDropdown?.value || '',
+            twoPlayer: this.twoPlayerFilterEnabled ? '1' : ''
         };
     }
 
@@ -64,12 +68,20 @@ class GameDisplay {
         this.searchInput.value = params.get('search') || '';
         this.favouritesFilterEnabled = params.get('favourites') === '1';
         this.platformFilter = params.get('platform') || '';
+        this.twoPlayerFilterEnabled = params.get('twoPlayer') === '1';
         if (this.platformDropdown) this.platformDropdown.value = this.platformFilter;
         this.favouritesButton.textContent = 'Favourites Only';
         if (this.favouritesFilterEnabled) {
             this.favouritesButton.classList.add("active");
         } else {
             this.favouritesButton.classList.remove("active");
+        }
+        if (this.twoPlayerButton) {
+            if (this.twoPlayerFilterEnabled) {
+                this.twoPlayerButton.classList.add("active");
+            } else {
+                this.twoPlayerButton.classList.remove("active");
+            }
         }
         this.updateTitle();
     }
@@ -116,21 +128,37 @@ class GameDisplay {
         });
     }
 
+    setupTwoPlayerButton() {
+        if (!this.twoPlayerButton) return;
+        this.twoPlayerButton.addEventListener('click', () => {
+            this.twoPlayerFilterEnabled = !this.twoPlayerFilterEnabled;
+            if (this.twoPlayerFilterEnabled) {
+                this.twoPlayerButton.classList.add("active");
+            } else {
+                this.twoPlayerButton.classList.remove("active");
+            }
+            this.updateFilteredDisplay();
+            this.updateHistory();
+        });
+    }
+
     updateFilteredDisplay() {
         const query = this.searchInput?.value.trim().toLowerCase() || '';
         const platform = this.platformDropdown?.value || '';
+        const twoPlayerEnabled = this.twoPlayerFilterEnabled;
+        const twoPlayerTags = ["2 player", "co-op", "multiplayer", "two players", "cooperative"];
         let filtered = this.allGames.filter(game => {
             const name = game.name || '';
             const system = game.system || '';
             const year = game.year || '';
             const isFavourite = this.favourites.has(name);
-
+            const tags = Array.isArray(game.tags) ? game.tags.map(t => t.toLowerCase()) : [];
             const allValues = [name, system, year].join(' ').toLowerCase();
             const matchesSearch = allValues.includes(query);
             const matchesFavourites = !this.favouritesFilterEnabled || isFavourite;
             const matchesPlatform = !platform || system === platform;
-
-            return matchesSearch && matchesFavourites && matchesPlatform;
+            const matchesTwoPlayer = !twoPlayerEnabled || tags.some(tag => twoPlayerTags.some(tp => tag.includes(tp)));
+            return matchesSearch && matchesFavourites && matchesPlatform && matchesTwoPlayer;
         });
 
         this.displayGames(filtered);
