@@ -314,7 +314,7 @@ class GameDisplay {
             ${game.platforms ? `<div style="color: #ccc;"><b>Platforms:</b> ${this.escapeHtml(game.platforms)}</div>` : ''}
             ${game.esrb ? `<div style="color: #ccc;"><b>ESRB:</b> ${this.escapeHtml(game.esrb)}</div>` : ''}
             ${game.metacritic !== '' && game.metacritic !== null && game.metacritic !== undefined ? `<div style="color: #ccc;"><b>Metacritic:</b> ${this.escapeHtml(game.metacritic.toString())}</div>` : ''}
-            ${game.tags ? `<div style='color:#ccc;'><b>Tags:</b> <span style='color:#6cf;'>${this.escapeHtml(game.tags.toString())}</span></div>` : ''}
+            ${game.tags && Array.isArray(game.tags) && game.tags.length > 0 ? `<div style='color:#ccc;'><b>Tags:</b> <span style='color:#6cf;'>${game.tags.map(t => this.escapeHtml(t)).join(', ')}</span></div>` : ''}
         `;
         content.appendChild(details);
 
