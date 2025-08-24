@@ -236,6 +236,7 @@ class GameDisplay {
         li.addEventListener('click', (e) => {
             if (!e.target.classList.contains('favourite-icon')) {
                 this.showGameModal({
+                    ...game,
                     name, system, year, image, publishers, platforms, esrb, metacritic, released, screenshots
                 });
             }
