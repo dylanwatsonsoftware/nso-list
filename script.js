@@ -153,7 +153,7 @@ class GameDisplay {
             const year = game.year || '';
             const isFavourite = this.favourites.has(name);
             const tags = Array.isArray(game.tags) ? game.tags.map(t => t.toLowerCase()) : [];
-            const allValues = [name, system, year].join(' ').toLowerCase();
+            const allValues = [name, system, year, ...(tags || [])].join(" ").toLowerCase();
             const matchesSearch = allValues.includes(query);
             const matchesFavourites = !this.favouritesFilterEnabled || isFavourite;
             const matchesPlatform = !platform || system === platform;
