@@ -683,33 +683,6 @@
     ]
   },
   {
-    "name": "Golf",
-    "system": "NES",
-    "image": "https://media.rawg.io/media/screenshots/3ce/3cee1791fd85f99cbbd3b81dc282e5e4.jpg",
-    "year": "1980",
-    "screenshots": [
-      "https://media.rawg.io/media/screenshots/b55/b55cee3c97b2c85f159ead2116650838.jpg",
-      "https://media.rawg.io/media/screenshots/36e/36eff65861b6b01caa217edf3f977b30.jpg",
-      "https://media.rawg.io/media/screenshots/e9b/e9b9f216f4b04babed68b9d845b60482.jpg",
-      "https://media.rawg.io/media/screenshots/e1a/e1ab36ff17f1232f17cc697c8caca9cf.jpg",
-      "https://media.rawg.io/media/screenshots/6e0/6e04160add12f34b3b6a766462c15650.jpg",
-      "https://media.rawg.io/media/screenshots/3ce/3cee1791fd85f99cbbd3b81dc282e5e4.jpg"
-    ],
-    "additional_platforms": [
-      "Nintendo 3DS",
-      "Wii U",
-      "Game Boy Advance",
-      "Game Boy",
-      "NES",
-      "Atari 2600"
-    ],
-    "released": "1980-12-31",
-    "tags": [
-      "Singleplayer",
-      "Multiplayer"
-    ]
-  },
-  {
     "name": "Gradius",
     "system": "NES",
     "image": "https://media.rawg.io/media/screenshots/fa9/fa9b8cfa25908f9d2218c541465263c4.jpg",
@@ -8335,6 +8308,371 @@
     "released": "1991-05-31",
     "tags": [
       "Singleplayer"
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: The Wind Waker",
+    "system": "GameCube",
+    "year": "2002",
+    "released": "2002-12-13",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Legend_of_Zelda_The_Wind_Waker.jpg/250px-The_Legend_of_Zelda_The_Wind_Waker.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Legend_of_Zelda_The_Wind_Waker.jpg/250px-The_Legend_of_Zelda_The_Wind_Waker.jpg"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Chibi-Robo! Plug Into Adventure!",
+    "system": "GameCube",
+    "year": "2005",
+    "released": "2005-06-23",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Chibi_Robo.jpg/250px-Chibi_Robo.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Chibi_Robo.jpg/250px-Chibi_Robo.jpg"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Luigi's Mansion",
+    "system": "GameCube",
+    "year": "2001",
+    "released": "2001-09-14",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Lmbox.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/5/5e/Lmbox.jpg"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Wario World",
+    "system": "GameCube",
+    "year": "2003",
+    "released": "2003-06-20",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Wario_World_game_cover.jpg/250px-Wario_World_game_cover.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Wario_World_game_cover.jpg/250px-Wario_World_game_cover.jpg"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Fire Emblem: Path of Radiance",
+    "system": "GameCube",
+    "year": "2005",
+    "released": "2005-04-20",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Fire_Emblem_PoR_Boxart.JPG/250px-Fire_Emblem_PoR_Boxart.JPG",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Fire_Emblem_PoR_Boxart.JPG/250px-Fire_Emblem_PoR_Boxart.JPG"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Super Mario Sunshine",
+    "system": "GameCube",
+    "year": "2002",
+    "released": "2002-07-19",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Super_Mario_Sunshine_Box_Art.png/250px-Super_Mario_Sunshine_Box_Art.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Super_Mario_Sunshine_Box_Art.png/250px-Super_Mario_Sunshine_Box_Art.png"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Pokémon XD: Gale of Darkness",
+    "system": "GameCube",
+    "year": "2005",
+    "released": "2005-08-04",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pok%C3%A9mon_XD-_Gale_of_Darkness_Coverart.png/250px-Pok%C3%A9mon_XD-_Gale_of_Darkness_Coverart.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pok%C3%A9mon_XD-_Gale_of_Darkness_Coverart.png/250px-Pok%C3%A9mon_XD-_Gale_of_Darkness_Coverart.png"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Pokémon Colosseum",
+    "system": "GameCube",
+    "year": "2003",
+    "released": "2003-11-21",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Pok%C3%A9mon_Colosseum_Coverart.png/250px-Pok%C3%A9mon_Colosseum_Coverart.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Pok%C3%A9mon_Colosseum_Coverart.png/250px-Pok%C3%A9mon_Colosseum_Coverart.png"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Galactic Pinball",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-07-21July 21, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Galactic_pinball.jpg/250px-Galactic_pinball.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Galactic_pinball.jpg/250px-Galactic_pinball.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Mario's Tennis",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-07-21July 21, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Mario%27s_Tennis.jpg/250px-Mario%27s_Tennis.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Mario%27s_Tennis.jpg/250px-Mario%27s_Tennis.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Red Alarm",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-07-21July 21, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Red_Alarm.jpg/250px-Red_Alarm.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Red_Alarm.jpg/250px-Red_Alarm.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Teleroboxer",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-07-21July 21, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Teleroboxer_boxart.PNG/250px-Teleroboxer_boxart.PNG",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Teleroboxer_boxart.PNG/250px-Teleroboxer_boxart.PNG"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Golf",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-08-11August 11, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Golf_%28Virtual_Boy%29_Coverart.png/250px-Golf_%28Virtual_Boy%29_Coverart.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Golf_%28Virtual_Boy%29_Coverart.png/250px-Golf_%28Virtual_Boy%29_Coverart.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Vertical Force",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-08-12August 12, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Vertical_Force.jpg/250px-Vertical_Force.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Vertical_Force.jpg/250px-Vertical_Force.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "V-Tetris",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-08-25August 25, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Virtual_Boy_V-Tetris_cover_art.jpg/250px-Virtual_Boy_V-Tetris_cover_art.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Virtual_Boy_V-Tetris_cover_art.jpg/250px-Virtual_Boy_V-Tetris_cover_art.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Mario Clash",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-09-28September 28, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Mario_Clash_-_Nintendo_Virtual_Boy_box_art.png/250px-Mario_Clash_-_Nintendo_Virtual_Boy_box_art.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Mario_Clash_-_Nintendo_Virtual_Boy_box_art.png/250px-Mario_Clash_-_Nintendo_Virtual_Boy_box_art.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Jack Bros.",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-09-29September 29, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Jack_Bros_Virtual_Boy_North_American_release.png/250px-Jack_Bros_Virtual_Boy_North_American_release.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Jack_Bros_Virtual_Boy_North_American_release.png/250px-Jack_Bros_Virtual_Boy_North_American_release.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "The Mansion of Innsmouth",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-10-13October 13, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Innsmouth_no_Yakata.png/250px-Innsmouth_no_Yakata.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Innsmouth_no_Yakata.png/250px-Innsmouth_no_Yakata.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Space Invaders Virtual Collection",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-12-01December 1, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Space_Invaders_Virtual_Collection_box_art.jpg/250px-Space_Invaders_Virtual_Collection_box_art.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Space_Invaders_Virtual_Collection_box_art.jpg/250px-Space_Invaders_Virtual_Collection_box_art.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Virtual Boy Wario Land",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-12-01December 1, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Virtual_Boy_Wario_Land_Coverart.png/250px-Virtual_Boy_Wario_Land_Coverart.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Virtual_Boy_Wario_Land_Coverart.png/250px-Virtual_Boy_Wario_Land_Coverart.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "Virtual Bowling",
+    "system": "Virtual Boy",
+    "year": "1995",
+    "released": "1995-12-22December 22, 1995",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Virtual_Boy_Virtual_Bowling_cover_art.jpg/250px-Virtual_Boy_Virtual_Bowling_cover_art.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Virtual_Boy_Virtual_Bowling_cover_art.jpg/250px-Virtual_Boy_Virtual_Bowling_cover_art.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "3-D Tetris",
+    "system": "Virtual Boy",
+    "year": "1996",
+    "released": "1996-03-00March 1996",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/3D_Tetris.jpg/250px-3D_Tetris.jpg",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/3D_Tetris.jpg/250px-3D_Tetris.jpg"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics"
+    ]
+  },
+  {
+    "name": "D-Hopper",
+    "system": "Virtual Boy",
+    "year": "2026",
+    "released": "Canceled",
+    "image": "https://static.wikia.nocookie.net/nintendo/images/2/24/Dragon_Hopper_%28VB%29.png/revision/latest?cb=20161102211903&path-prefix=en",
+    "screenshots": [
+      "https://static.wikia.nocookie.net/nintendo/images/2/24/Dragon_Hopper_%28VB%29.png/revision/latest?cb=20161102211903&path-prefix=en"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics",
+      "Upcoming"
+    ]
+  },
+  {
+    "name": "Zero Racers",
+    "system": "Virtual Boy",
+    "year": "2026",
+    "released": "Canceled",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Zero_Racers_logo.png/250px-Zero_Racers_logo.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Zero_Racers_logo.png/250px-Zero_Racers_logo.png"
+    ],
+    "tags": [
+      "Virtual Boy",
+      "Nintendo Classics",
+      "Upcoming"
+    ]
+  },
+  {
+    "name": "Golf",
+    "system": "NES",
+    "image": "https://media.rawg.io/media/screenshots/3ce/3cee1791fd85f99cbbd3b81dc282e5e4.jpg",
+    "year": "1980",
+    "screenshots": [
+      "https://media.rawg.io/media/screenshots/b55/b55cee3c97b2c85f159ead2116650838.jpg",
+      "https://media.rawg.io/media/screenshots/36e/36eff65861b6b01caa217edf3f977b30.jpg",
+      "https://media.rawg.io/media/screenshots/e9b/e9b9f216f4b04babed68b9d845b60482.jpg",
+      "https://media.rawg.io/media/screenshots/e1a/e1ab36ff17f1232f17cc697c8caca9cf.jpg",
+      "https://media.rawg.io/media/screenshots/6e0/6e04160add12f34b3b6a766462c15650.jpg",
+      "https://media.rawg.io/media/screenshots/3ce/3cee1791fd85f99cbbd3b81dc282e5e4.jpg"
+    ],
+    "additional_platforms": [
+      "Nintendo 3DS",
+      "Wii U",
+      "Game Boy Advance",
+      "Game Boy",
+      "NES",
+      "Atari 2600"
+    ],
+    "released": "1980-12-31",
+    "tags": [
+      "Singleplayer",
+      "Multiplayer"
     ]
   }
 ]
