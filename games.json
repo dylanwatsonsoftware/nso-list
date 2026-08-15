@@ -8667,5 +8667,19 @@
     "metacritic": null,
     "released": null,
     "tags": []
+  },
+  {
+    "name": "Super Mario Sunshine",
+    "system": "GameCube",
+    "year": "2002",
+    "released": "2002-07-19",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Super_Mario_Sunshine_Box_Art.png/250px-Super_Mario_Sunshine_Box_Art.png",
+    "screenshots": [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Super_Mario_Sunshine_Box_Art.png/250px-Super_Mario_Sunshine_Box_Art.png"
+    ],
+    "tags": [
+      "GameCube",
+      "Nintendo Classics"
+    ]
   }
 ]

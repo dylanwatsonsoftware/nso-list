@@ -1,6 +1,6 @@
 import unittest
 
-from scrape_games import merge_catalog, parse_catalog_tables, title_key
+from scrape_games import apply_release_additions, merge_catalog, parse_catalog_tables, title_key
 
 
 class CatalogParsingTests(unittest.TestCase):
@@ -19,6 +19,13 @@ class CatalogParsingTests(unittest.TestCase):
 
     def test_title_key_ignores_trademarks_and_apostrophe_styles(self):
         self.assertEqual(title_key("Kirby's Star Stacker"), title_key("Kirby’s Star Stacker™"))
+
+    def test_release_announcements_extend_a_lagging_catalog(self):
+        catalog = {"GameCube": ["Luigi's Mansion"]}
+
+        apply_release_additions(catalog, {"GameCube": ["Super Mario Sunshine"]})
+
+        self.assertEqual(catalog["GameCube"], ["Luigi's Mansion", "Super Mario Sunshine"])
 
 
 class CatalogMergeTests(unittest.TestCase):

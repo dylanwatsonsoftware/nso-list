@@ -17,6 +17,12 @@ MATURE_N64_URL = "https://www.nintendo.com/au/games/nintendo-switch/nintendo-64-
 VIRTUAL_BOY_URL = "https://www.nintendo.com/au/games/nintendo-switch/virtual-boy-nintendo-classics/"
 OUTPUT_FILE = Path("games.json")
 
+# Nintendo's consolidated AU catalogue can lag behind release announcements.
+# Source: Nintendo US news, 2026-08-13, "The next sun-sational update..."
+RELEASE_ADDITIONS = {
+    "GameCube": ["Super Mario Sunshine"],
+}
+
 MAIN_TABLES = {
     "S:1": "NES",
     "S:3": "SNES",
@@ -100,6 +106,16 @@ def parse_included_games(html: str) -> list[str]:
     return max(tables, key=len)
 
 
+def apply_release_additions(catalog: dict[str, list[str]], additions: dict[str, list[str]]) -> None:
+    for system, titles in additions.items():
+        current = catalog.setdefault(system, [])
+        current_keys = {title_key(title) for title in current}
+        for title in titles:
+            if title_key(title) not in current_keys:
+                current.append(title)
+                current_keys.add(title_key(title))
+
+
 def merge_catalog(existing: list[dict], catalog: dict[str, list[str]]) -> list[dict]:
     official = {}
     for system, titles in catalog.items():
@@ -137,6 +153,7 @@ def build_catalog(main_html: str, mature_html: str, virtual_boy_html: str) -> di
     catalog = parse_catalog_tables(main_html)
     catalog["N64"].extend(parse_included_games(mature_html))
     catalog["Virtual Boy"] = parse_included_games(virtual_boy_html)
+    apply_release_additions(catalog, RELEASE_ADDITIONS)
     return catalog
 
 
